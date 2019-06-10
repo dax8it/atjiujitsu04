@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: Our Programs
-image: /img/judo-01.svg
+image: /img/jumbotron.png
 heading: Great coffee with a conscience
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
