@@ -1,21 +1,28 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Brazilian Jiujitsu in Jackson Heights Queens NYC
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Martial Arts for Adults and Kids
+subheading: Support your local bjj gym
 mainpitch:
-  title: Why Kaldi
+  title: Welcome to ATJIUJITSUNYC
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    AT Jiu-Jitsu NYC is a martial arts school that focuses on providing the local community with a clean and safe environment where members will be able to focus and work on improving their health. Members will also have the opportunity to connect and interact with other members in the community while engaging in classes.
+
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Through classes focusing on mixed martial arts such as Brazilian Jiu-Jitsu, Judo, Muay Thai, Yoga, and Kickboxing.
+  
+  
+  The goal of AT Jiu-Jitsu NYC is to provide members the opportunity to be able to grow as individuals by gaining a better sense of themselves in both mind and body, all while learning about the sport and self-defense aspects of these martial arts.  
+  
+  
+  Members will walk out of at Jiu-Jitsu NYC feeling empowered and confident. AT Jiu-Jitsu NYC will work with members to set personalized goals and prove that these set objections can be reached, despite any existing limitations.
+
+
+
+
+
+
 intro:
   blurbs:
     - image: /img/coffee.png
