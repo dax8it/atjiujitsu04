@@ -1,10 +1,6 @@
 ---
-<<<<<<< HEAD
 templateKey: 'product-page'
 path: /products
-=======
-templateKey: product-page
->>>>>>> 0ac75edec29650b4467783fb2edd4c9baa88a57e
 title: Our Programs
 image: /img/jumbotron.jpg
 heading: Great programs with a conscience
