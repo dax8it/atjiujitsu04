@@ -1,6 +1,10 @@
 ---
+<<<<<<< HEAD
 templateKey: 'product-page'
 path: /products
+=======
+templateKey: product-page
+>>>>>>> 0ac75edec29650b4467783fb2edd4c9baa88a57e
 title: Our Programs
 image: /img/jumbotron.jpg
 heading: Great programs with a conscience
@@ -39,11 +43,12 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: >-
+    Through classes focusing on mixed martial arts such as Brazilian Jiu-Jitsu,
+    Judo, Muay Thai, Yoga, and Kickboxing. The goal of AT Jiu-Jitsu NYC is to
+    provide members the opportunity to be able to grow as individuals by gaining
+    a better sense of themselves in both mind and body, all while learning about
+    the sport and self-defense aspects of these martial arts.
 main:
   heading: The best choice for your health
   description: >
@@ -100,4 +105,3 @@ pricing:
       price: '??'
 ---
 
-# Hello World
