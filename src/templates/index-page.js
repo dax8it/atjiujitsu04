@@ -40,8 +40,8 @@ export const IndexPageTemplate = ({
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
             boxShadow:
-              'rgb(28, 89, 150) 0.5rem 0px 0px, rgb(28, 89, 150) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(28, 89, 150)',
+              'rgb(0, 102, 204) 0.5rem 0px 0px, rgb(0, 102, 204) -0.5rem 0px 0px',
+            backgroundColor: 'rgb(0, 102, 204)',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
@@ -53,8 +53,8 @@ export const IndexPageTemplate = ({
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
             boxShadow:
-              'rgb(28, 89, 150) 0.5rem 0px 0px, rgb(28, 89, 150) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(28, 89, 150)',
+              'rgb(0, 102, 204) 0.5rem 0px 0px, rgb(0, 102, 204) -0.5rem 0px 0px',
+            backgroundColor: 'rgb(0, 102, 204)',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
@@ -78,7 +78,9 @@ export const IndexPageTemplate = ({
                   <div className="tile">
                     <h3 className="subtitle">{mainpitch.description}</h3>
                   </div>
-                  <iframe class="resp-iframe" src="https://player.vimeo.com/video/317633674" width="100%" frameborder="0" title="ATJIUJITSU INTRO VIDEO" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                  <div class="video-responsive">
+                  <iframe src="https://player.vimeo.com/video/317633674" width="100%" frameborder="0" title="ATJIUJITSU INTRO VIDEO" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                  </div>
                   <br />
                 </div>
                 <div className="columns">
