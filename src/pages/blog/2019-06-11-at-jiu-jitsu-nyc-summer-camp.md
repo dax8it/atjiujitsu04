@@ -2,7 +2,9 @@
 templateKey: blog-post
 title: 'AT JIU-JITSU NYC Summer Camp:'
 date: 2019-06-11T17:22:41.926Z
-description: Come join us for fun all day activities during the summer!
+description: >-
+  4 WEEK SUMMER SESSION. Come join us for fun all day activities during the
+  summer!
 featuredpost: true
 featuredimage: /img/summercamp.png
 ---
