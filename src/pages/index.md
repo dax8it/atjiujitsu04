@@ -1,9 +1,11 @@
 ---
 templateKey: index-page
-title: Brazilian Jiujitsu in Jackson Heights Queens NYC
+title: >-
+  BRAZILIAN JIUJITSU • JUDO • Muay Thai • SMARTER YOGA *KICKBOXING • TODDLER
+  JIU-JITSU
 image: /img/jumbotron.jpg
 heading: Martial Arts for Adults and Kids
-subheading: Support your local bjj gym
+subheading: Jackson Heights  •  Queens •  NYC
 mainpitch:
   title: Welcome to ATJIUJITSUNYC
   description: >
