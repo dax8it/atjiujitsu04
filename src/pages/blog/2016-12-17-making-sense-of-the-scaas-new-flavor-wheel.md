@@ -35,6 +35,4 @@ We took 3rd place in kids team category. We're very proud of everything everyone
 
 ![](/img/big-apple-pic-10.png)
 
-
-
 ![ATJIUJITSUNYC takes 3rd place in kids division](/img/big-apple-pic-01.png "We are the Champions :)")
