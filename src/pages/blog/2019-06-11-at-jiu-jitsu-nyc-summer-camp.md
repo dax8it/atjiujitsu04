@@ -8,26 +8,80 @@ description: >-
 featuredpost: true
 featuredimage: /img/summercamp.png
 ---
+![](/img/summercamp.png)
+
 # Starting From: July 22nd - August 16th
 
 ## Call us at (917) 745 - 1772 to reserve a spot now!
 
 **(Limited Spots Available!!!)**
 
-****
+
+You say goodbye and I say hello. This is the way the world goes around and around. ANd it will not stop for you and I, so we need to build a spaceship to leave this place. In hopes to finding a shooting star that we can ride along the Milky Way.
 
 
-|        Times        	|        Tuesday       	|       Wednesday      	|       Thursday       	|    Friday   	|
-|:-------------------:	|:--------------------:	|:--------------------:	|:--------------------:	|:-----------:	|
-|  8:30 am - 9:00 am  	|        Arrival       	|        Arrival       	|        Arrival       	|             	|
-|  9:00 am - 10:00 am 	| Jiu Jitsu - All Ages 	| Jiu Jitsu - All Ages 	| Jiu Jitsu - All Ages 	|             	|
-| 10:00 am - 11:00 am 	|       Game Time      	|       Game Time      	|       Game Time      	| Field Trip* 	|
-| 11:00 am - 12:00 pm 	|    Reading/Writing   	|    Trip to Library   	|    Reading/Writing   	| Field Trip* 	|
-|  12:00 pm - 1:00 pm 	|  Lunch/Tutoring Time 	|  Lunch/Tutoring Time 	|  Lunch/Tutoring Time 	| Field Trip* 	|
-|  1:00 pm - 2:00 pm  	|    Arts and Crafts   	|    Arts and Crafts   	|    Arts and Crafts   	| Field Trip* 	|
-|  2:00 pm - 3:00 pm  	|     Screen Time      	|      Screen Time     	|      Screen Time     	|             	|
-|                     	|                      	|                      	|                      	|             	|
 
-****
+- - -
 
-****
+
+
+
+### TUESDAY
+
+
+* **8:30 am - 9:00 am:** Arrival
+* **9:00 am - 10:00 am:** Jiu-jitsu All Ages
+* **10:00 am - 11:00 am:** Game Time
+* **11:00 am - 12:00 pm:** Reading/Writing
+* **12:00 pm - 1:00 pm:** Lunch/Tutorial Time
+* **1:00 pm - 2:00 pm:** Arts and Crafts
+* **2:00 pm - 3:00 pm:** Screen Time
+
+### WEDNESDAY
+
+* **8:30 am - 9:00 am:** Arrival
+* **9:00 am - 10:00 am:** Jiu-jitsu All Ages
+* **10:00 am - 11:00 am:** Game Time
+* **11:00 am - 12:00 pm:** Reading/Writing
+* **12:00 pm - 1:00 pm:** Lunch/Tutorial Time
+* **1:00 pm - 2:00 pm:** Arts and Crafts
+* **2:00 pm - 3:00 pm:** Screen Time
+
+### THURSDAY
+
+* **8:30 am - 9:00 am:** Arrival
+* **9:00 am - 10:00 am:** Jiu-jitsu All Ages
+* **10:00 am - 11:00 am:** Game Time
+* **11:00 am - 12:00 pm:** Library Trip
+* **12:00 pm - 1:00 pm:** Lunch/Tutorial Time
+* **1:00 pm - 2:00 pm:** Arts and Crafts
+* **2:00 pm - 3:00 pm:** Screen Time
+
+### FRIDAY
+
+
+* **10:00 am - 2:00 pm:** Field Trip _(Every Other Friday)_
+
+
+
+<br>
+
+
+
+
+- - -
+
+| Times               | Tuesday              | Wednesday            | Thursday             | Friday      |
+| ------------------- | -------------------- | -------------------- | -------------------- | ----------- |
+| 8:30 am - 9:00 am   | Arrival              | Arrival              | Arrival              |             |
+| 9:00 am - 10:00 am  | Jiu Jitsu - All Ages | Jiu Jitsu - All Ages | Jiu Jitsu - All Ages |             |
+| 10:00 am - 11:00 am | Game Time            | Game Time            | Game Time            | Field Trip* |
+| 11:00 am - 12:00 pm | Reading/Writing      | Trip to Library      | Reading/Writing      | Field Trip* |
+| 12:00 pm - 1:00 pm  | Lunch/Tutoring Time  | Lunch/Tutoring Time  | Lunch/Tutoring Time  | Field Trip* |
+| 1:00 pm - 2:00 pm   | Arts and Crafts      | Arts and Crafts      | Arts and Crafts      | Field Trip* |
+| 2:00 pm - 3:00 pm   | Screen Time          | Screen Time          | Screen Time          |             |
+|                     |                      |                      |                      |             |
+
+- - -
+
+- - -
