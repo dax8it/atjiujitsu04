@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: >-
-  BRAZILIAN JIUJITSU • JUDO • Muay Thai • SMARTER YOGA *KICKBOXING • TODDLER
+  BRAZILIAN JIUJITSU • JUDO • MUAY THAI • SMARTER YOGA • KICKBOXING • TODDLER
   JIU-JITSU
 image: /img/jumbotron.jpg
 heading: Martial Arts for Adults and Kids
