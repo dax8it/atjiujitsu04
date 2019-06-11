@@ -28,33 +28,45 @@ description: >-
   these set objections can be reached, despite any existing limitations.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/BJJ.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        BJJ is a grappling-based martial art whose central theme is the skill of
+        controlling a resisting opponent in ways that force them to submit…
+    - image: /img/JUDO.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        * Judo is a tremendous and dynamic combat sport that demands both
+        physical prowess and great mental discipline. From a standing position,
+        it involves techniques that allow you to lift and throw your opponents
+        onto their backs.
+
+
+        * Judo does not involve kicking, punching, or striking techniques of any
+        kind.
+
+
+        * Instead, judo simply involves two individuals who, by gripping the
+        judo uniform, use the forces of balance, power, and movement to attempt
+        to subdue each other. Thus,it is simple and basic. however, judo
+        techniques often take considerable time, effort, and energy
+
+
+        * Judo is offered to Ages 5 to 7 only
+    - image: /img/MUAYTHAI.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        A highly-effective self-defense martial art. Contrary to the popular
+        belief, Muay Thai is not the same as kickboxing. The two are often…
+    - image: /img/SMARTERYOGA.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Yoga for functional training. You will learn to move in ways that will
+        benefit daily life, not just your next yoga class. Our system takes…
+    - image: /img/KICKBOXING.png
+      text: >-
+        Kickboxing is a form of martial arts derived from karate. It borrows
+        moves from multiple types of martial arts including full-contact…
+    - image: /img/TODDLER.png
+      text: >-
+        Brazilian Jiu-Jitsu is THE BEST non-violent self defense for children
+        and teens. Our toddlers learn takedowns, throws, falling, controls…
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
