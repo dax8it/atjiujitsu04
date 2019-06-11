@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: Our Programs
+title: Our Programs and Prices
 image: /img/jumbotron.jpg
 heading: Great programs with a conscience
 description: >-
