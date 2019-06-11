@@ -6,31 +6,35 @@ description: >-
   Great tournament results for our kids. Congrats to all the kids and adults who
   participated.
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
+featuredimage: /img/big-apple-pic-04.png
 tags:
   - flavor
   - tasting
 ---
+![](/img/big-apple-pic-12.png)
 
-![flavor wheel](/img/flavor_wheel.jpg)
+Another win for one of our favorites. They're all our favorites!!!
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+## Congrats to all our kids who competed
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+We took 3rd place in kids team category. We're very proud of everything everyone has accomplished.
 
-## What the updates mean to you
+![](/img/big-apple-pic-02.png)
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+![](/img/big-apple-pic-03.png)
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+![](/img/big-apple-pic-05.png)
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+![](/img/big-apple-pic-06.png)
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+![](/img/big-apple-pic-07.png)
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+![](/img/big-apple-pic-08.png)
+
+![](/img/big-apple-pic-09.png)
+
+![](/img/big-apple-pic-10.png)
+
+
+
+![ATJIUJITSUNYC takes 3rd place in kids division](/img/big-apple-pic-01.png "We are the Champions :)")
