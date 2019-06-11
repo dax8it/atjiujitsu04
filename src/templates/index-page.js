@@ -63,6 +63,7 @@ export const IndexPageTemplate = ({
           {subheading}
         </h3>
       </div>
+      
     </div>
     <section className="section section--gradient">
       <div className="container">
@@ -77,6 +78,8 @@ export const IndexPageTemplate = ({
                   <div className="tile">
                     <h3 className="subtitle">{mainpitch.description}</h3>
                   </div>
+                  <iframe class="resp-iframe" src="https://player.vimeo.com/video/317633674" width="100%" frameborder="0" title="ATJIUJITSU INTRO VIDEO" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                  <br />
                 </div>
                 <div className="columns">
                   <div className="column is-12">
@@ -84,13 +87,16 @@ export const IndexPageTemplate = ({
                       {heading}
                     </h3>
                     <p>{description}</p>
+
+
                   </div>
+
                 </div>
                 <Features gridItems={intro.blurbs} />
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/products">
-                      See all products
+                      See all programs
                     </Link>
                   </div>
                 </div>
