@@ -7,6 +7,11 @@ description: >-
   summer!
 featuredpost: true
 featuredimage: /img/summercamp.png
+tags:
+  - kids
+  - summer camp
+  - bjj
+  - kids-bjj
 ---
 ![](/img/summercamp.png)
 
