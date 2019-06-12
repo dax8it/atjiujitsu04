@@ -6,6 +6,10 @@ title: Adult and Kids Schedule
 
 # Adult Classes
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UE0iuLcMvu8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 - - -
 
 <br>
@@ -56,13 +60,16 @@ title: Adult and Kids Schedule
 
 <br>
 
-
-
 # Kids Classes
 
+<br>
+
+<iframe title="Kids Jiujitsu Classes" width="640" height="361" src="https://www.youtube.com/embed/PIhQEZQEjqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+
 - - -
-
-
 
 ### MONDAY
 
