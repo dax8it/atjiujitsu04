@@ -46,6 +46,7 @@ export default class Index extends React.Component {
                 action="/contact/thanks/"
                 data-netlify="true"
                 data-netlify-honeypot="bot-field"
+                data-netlify-recaptcha="true"
                 onSubmit={this.handleSubmit}
               >
                 {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
@@ -100,6 +101,7 @@ export default class Index extends React.Component {
                     />
                   </div>
                 </div>
+                <div data-netlify-recaptcha="true"></div>
                 <div className="field">
                   <button className="button is-link" type="submit">
                     Send
@@ -108,6 +110,58 @@ export default class Index extends React.Component {
               </form>
             </div>
           </div>
+        </section>
+        <section>
+        <div className="col-8">
+          <h4 className="mt-4">Business Hours</h4>
+        
+          <table className="table table-sm opening-hours-table">
+            <tbody>
+              <tr>
+                <td className="day font-weight-bold">Monday</td>
+                <td className="opens">3:00pm</td>
+                <td>-</td>
+                <td className="closes">9:00pm</td>
+              </tr>
+              <tr>
+                <td className="day font-weight-bold">Tuesday</td>
+                <td className="opens">3:00pm</td>
+                <td>-</td>
+                <td className="closes">9:00pm</td>
+              </tr>
+              <tr>
+                <td className="day font-weight-bold">Wednesday</td>
+                <td className="opens">3:00pm</td>
+                <td>-</td>
+                <td className="closes">9:00pm</td>
+              </tr>
+              <tr>
+                <td className="day font-weight-bold">Thursday</td>
+                <td className="opens">3:00pm</td>
+                <td>-</td>
+                <td className="closes">9:00pm</td>
+              </tr>
+              <tr>
+                <td className="day font-weight-bold">Friday</td>
+                <td className="opens">3:00pm</td>
+                <td>-</td>
+                <td className="closes">9:00pm</td>
+              </tr>
+              <tr>
+                <td className="day font-weight-bold">Saturday</td>
+                <td className="opens">9:00am</td>
+                <td />
+                <td className="closes">3:00pm</td>
+              </tr>
+              <tr>
+                <td className="day font-weight-bold">Sunday</td>
+                <td className="opens">10:00am</td>
+                <td />
+                <td className="closes">1:00pm</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
         </section>
       </Layout>
     )
