@@ -2,6 +2,8 @@
 templateKey: about-page
 title: About our team
 ---
+![Professor Alvaro Tautiva - Owner and Head Instructor](/img/alvaro.png "Professor Alvaro Tautiva - Owner and Head Instructor")
+
 # Professor Alvaro Tautiva
 
 ## Owner and Head Instructor
@@ -24,11 +26,13 @@ An active competitor in the BJJ scene, Professor Alvaro has competed and medaled
 * Long Island Pride XVI: Blue Open Weight No-Gi Champion
 * Boston IBJJF International Open 2012: Blue Belt Feather Third Place
 
-
-
 Having been raised in Jackson Heights his whole life, Professor Alvaro dreamt about being able to bring Jiu-Jitsu to his community and giving members the opportunity to connect and interact with other members of the community while engaging in classes.
 
+- - -
 
+<br>
+
+![Kim-Lien KendallSmarteryoga Instructor/ Kids Brazilian Jiu-Jitsu and Judo Assistant Instructor](/img/kim_bg.png "Kim-Lien KendallSmarteryoga Instructor/ Kids Brazilian Jiu-Jitsu and Judo Assistant Instructor")
 
 # Kim-Lien Kendall
 
@@ -38,7 +42,13 @@ Kim has been teaching yoga classes, one on one sessions, workshops, seminars, re
 
 Kim has a BS in Biochemistry from Florida State University (2005), is certified by Yoga Union, has completed training and an ongoing education at the Breathing Project, is certified as a Redcord Active instructor and is a MET Master Facilitator. Kim is also an active competitor in Brazilian Jiu-Jitsu and currently a purple belt. She is known for creating sport-specific mobility programs and has created a program specifically for grapplers that will be taught exclusively at AT Jiu-Jitsu NYC.
 
+<br>
 
+- - -
+
+<br>
+
+![Morgan ChenMuy-Thai Instructor](/img/morgan.png "Morgan ChenMuy-Thai Instructor")
 
 # Morgan Chen
 
@@ -48,7 +58,13 @@ Morgan Chen is the Owner and Head Coach of **Astoria_BarbellClub and Crossfit_As
 
 Morgan admits to being a diehard **NY Knicks** and **New York Mets** fan, and remembers going to Shea Stadium every summer as a kid. Morgan states that he wants to give back to Queens by making personal training and qualified fitness advice affordable for everyone. His vision for Queens is to have complimentary fitness classes in every public NYC Parks(s). Although extremely busy between multiple ventures, Morgan spends his most important time as a dad not a coach. 
 
+<br>
 
+- - -
+
+<br>
+
+![Natalia VallebuonaProgram Director](/img/natalia.png "Natalia VallebuonaProgram Director")
 
 # Natalia Vallebuona
 
@@ -58,11 +74,17 @@ Natalia was born and raised in Jackson Heights and as such shares the love for t
 
 Natalia has always loved caring for children and was studying to become a teacher for elementary school aged children prior to changing her major. While her major has changed, her dedication to the well-being of children has remained. 
 
+<br>
 
+- - -
+
+<br>
+
+![Daniela Tautiva M.S.WCo-Owner and Assistant Program Director](/img/daniela.png "Daniela Tautiva M.S.WCo-Owner and Assistant Program Director")
 
 # Daniela Tautiva M.S.W
 
-##  Co-Owner and Assistant Program Director
+## Co-Owner and Assistant Program Director
 
 Daniela obtained her Masters in Social Work from Adelphi University in 2018 and currently works as a Foster Care Case Planner. Having been raised in Jackson Heights and being the daughter of immigrant parents, Daniela works closely with families with the goal of providing permanency and safety of their children.
 
