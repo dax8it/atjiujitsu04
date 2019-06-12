@@ -2,70 +2,107 @@
 templateKey: schedule-page
 title: Adult and Kids Schedule
 ---
-# Adult Class Schedule
+<br>
 
-## Owner and Head Instructor
+# Adult Classes
 
-[alvarotautiva@gmail.com](mailto://alvarotautiva@gmail.com)
+- - -
 
-Professor Alvaro is currently a Black belt in Brazilian Jiu-Jitsu and a Brown belt in Judo. Professor Alvaro obtained his black belt in Brazilian Jiu-Jitsu on December 2017 from Vitor Shaolin in NYC. Prior to Jiu-jitsu, he has trained and continues to train in Muay Thai, was a certified trainer through the National Academy of Sports Medicine (N.A.S.M.) and obtained an Associate Degree in Speech Pathology through LaGuardia Community College.
+<br>
 
-An active competitor in the BJJ scene, Professor Alvaro has competed and medaled in several tournaments in the United States, ranging from New York, Boston, Miami, and Las Vegas. In 2015, as a purple belt, Professor Alvaro was runner-up in the IBJJF Masters Worlds championship and soon after took 1st place in the no-gi Pan-Ams championship.
+## MONDAY
 
-**Some current titles include:**
+* **Kickboxing:** 6:15 to 7:15 pm
+* **Jiu-Jitsu:** 7:15 to 8:15 pm
 
-* IBJJF Summer Open 2017: Brown Belt Master 1 Feather Champion
-* Pan Jiu-jitsu No Gi IBJJF Championship 2015: Purple Belt Master 1 Feather Champion
-* World Master Jiu-jitsu IBJJF Championships 2015: Purple Belt Master 1 Second Place
-* New York Summer International IBJJF Open 2015: Purple Master 1 Second Place
-* Big Apple Open 2015: Purple Belt Adult Feather Champion
-* Good Fight 2013 Summer Classic: Purple Belt Adult Light Champion
-* Good Fight 2012 Winter Classic: Blue Adult Feather Gi/No Gi Champion/Open Weight Gi Champ
-* Long Island Pride XVI: Blue Open Weight No-Gi Champion
-* Boston IBJJF International Open 2012: Blue Belt Feather Third Place
+## TUESDAY
 
+* **Jiu-Jitsu:** 6:15 to 7:30 am
+* **Muay Thai:** 6:00 to 7:00 pm
+* **Smarter Yoga:** 7:00 to 8:00 pm
+* **Jiu-Jitsu:** 8:10 to 9:15 pm
 
+## WEDNESDAY
 
-Having been raised in Jackson Heights his whole life, Professor Alvaro dreamt about being able to bring Jiu-Jitsu to his community and giving members the opportunity to connect and interact with other members of the community while engaging in classes.
+* **Kickboxing:** 6:15 to 7:15 pm
+* **Jiu-Jitsu:** 7:15 to 8:15 pm
 
+## THURSDAY
 
+* **Jiu-Jitsu:** 6:15 to 7:30 am
+* **Muay Thai:** 6:15 to 7:00 pm
+* **Jiu-Jitsu:** 7:17 to 8:15 pm
 
-# Kim-Lien Kendall
+## FRIDAY
 
-## Smarteryoga Instructor/ Kids Brazilian Jiu-Jitsu and Judo Assistant Instructor
+* **Kickboxing:** 6:15 to 7:15 pm
+* **Jiu-Jitsu:** 7:15 to 8:15 pm
 
-Kim has been teaching yoga classes, one on one sessions, workshops, seminars, retreats and teacher trainings since 2005. She has studied several styles of yoga under many well-known teachers and combined her background in exercise physiology and kinesiology to co-create Smarter Yoga (TM), an individualized movement practice rooted in exercise science without the dogma of traditional yoga practice. She is the CEO of Smarter Bodies and the co-author of "Exposing Yoga Myths".
+## SATURDAY
 
-Kim has a BS in Biochemistry from Florida State University (2005), is certified by Yoga Union, has completed training and an ongoing education at the Breathing Project, is certified as a Redcord Active instructor and is a MET Master Facilitator. Kim is also an active competitor in Brazilian Jiu-Jitsu and currently a purple belt. She is known for creating sport-specific mobility programs and has created a program specifically for grapplers that will be taught exclusively at AT Jiu-Jitsu NYC.
+* **Kickboxing:** 12:15 to 1:00 pm
+* **Jiu-Jitsu No Gi:** 1:00 to 2:00 pm
+* **Smarter Yoga:** 2:00 to 3:00 pm 	
 
+## SUNDAY
 
+<br>
 
-# Morgan Chen
+* **Open Mat for Everyone:** 10:00 to 12:00 pm
 
-## Muy-Thai Instructor
+<br>
 
-Morgan Chen is the Owner and Head Coach of **Astoria_BarbellClub and Crossfit_Astoria**. Morgan is of Taiwanese descent but was born and raised in Rego Park, Queens. He attended P.S. 139, Russel Sage JHS 190, then went onto Forest Hills High School. Morgan received his first nationally recognized personal training certification when he was 18 at NASM_Fitness. Surprisingly, his favorite hobby is eating. He loves to explore new restaurants and learning new cooking techniques.
+- - -
 
-Morgan admits to being a diehard **NY Knicks** and **New York Mets** fan, and remembers going to Shea Stadium every summer as a kid. Morgan states that he wants to give back to Queens by making personal training and qualified fitness advice affordable for everyone. His vision for Queens is to have complimentary fitness classes in every public NYC Parks(s). Although extremely busy between multiple ventures, Morgan spends his most important time as a dad not a coach. 
-
-
-
-# Natalia Vallebuona
-
-## Program Director
-
-Natalia was born and raised in Jackson Heights and as such shares the love for the community. Natalia obtained an Associate Degree in Criminal Justice from Queensborough Community College in 2018 and is currently studying to obtain her BS in Criminal Justice from John Jay College.
-
-Natalia has always loved caring for children and was studying to become a teacher for elementary school aged children prior to changing her major. While her major has changed, her dedication to the well-being of children has remained. 
+<br>
 
 
 
-# Daniela Tautiva M.S.W
+# Kids Classes
 
-##  Co-Owner and Assistant Program Director
+- - -
 
-Daniela obtained her Masters in Social Work from Adelphi University in 2018 and currently works as a Foster Care Case Planner. Having been raised in Jackson Heights and being the daughter of immigrant parents, Daniela works closely with families with the goal of providing permanency and safety of their children.
 
-As Co-Owner and Assistant Program Director of AT Jiu-Jitsu NYC, Daniela has worked closely with Professor Alvaro to ensure that the programs offered at our school are tailored to the needs of every child and adult, with the goal of assisting our members in working to build confidence.
 
-Daniela is a 2nd Degree Brown Belt in Shotokan Karate through Sensei Kai Leung and is currently a purple belt in Brazilian Jiu-Jitsu.
+### MONDAY
+
+* **Kids Judo (Ages 5 to 7):** 4:00 to 4:45pm
+* **Kids Jiu-Jitsu (Ages 8 to 12)** 5:00 to 5:45pm
+
+### TUESDAY
+
+* **Kids Jiu-Jitsu (Ages 5 to 7):** 3:15 to 4:00pm
+* **Kids Muay Thai (Ages 8 to 13):** 4:00 to 4:45pm
+* **Kids Jiu-Jitsu (Ages 8 to 12):** 5:00 to 5:45pm
+
+### WEDNESDAY
+
+* **Kids Judo (Ages 5 to 7):** 4:00 to 4:45pm
+* **Kids Jiu-Jitsu (Ages 8 to 12):** 5:00 to 5:45pm
+
+### THURSDAY
+
+* **Kids Jiu-Jitsu (Ages 5 to 7):** 3:15 to 4:00pm
+* **Kids Muay Thai (Ages 8 to 13):** 4:00 to 4:45pm
+* **Kids Jiu-Jitsu (Ages 8 to 12):** 5:00 to 5:45pm
+
+### FRIDAY
+
+* **Kids Judo (Ages 5 to 7):** 4:00 to 4:45pm
+* **Kids Jiu-Jitsu (Ages 8 to 12):** 5:00 to 5:45pm
+
+### SATURDAY
+
+* **Toddler Jiu-Jitsu (Ages 3 to 4):** 9:15 to 10:00am
+* **Kids Jiu-Jitsu (Ages 5 to 7):** 10:15 to 11:00pm
+* **Kids Jiu-Jitsu (Ages 8 to 12):** 11:15 to 12:00pm 	
+
+### SUNDAY
+
+* **Kids BJJ Competition (All Ages):** 12:00 to 1:00pm
+
+<br>
+
+- - -
+
+###
