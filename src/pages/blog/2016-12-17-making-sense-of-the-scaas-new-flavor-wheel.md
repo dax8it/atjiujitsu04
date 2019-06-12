@@ -8,8 +8,12 @@ description: >-
 featuredpost: false
 featuredimage: /img/big-apple-pic-04.png
 tags:
-  - flavor
-  - tasting
+  - Big Apple
+  - tournament
+  - bjj
+  - competition
+  - kids
+  - events
 ---
 ![](/img/big-apple-pic-12.png)
 
