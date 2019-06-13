@@ -58,13 +58,13 @@ export default class Index extends React.Component {
                   </label>
                 </div>
                 <p>
-                  <label>Your Name: <input type="text" name="name" /></label>   
+                  <label>Your Name: <input type="text" name="name" required/></label>   
                 </p>
                 <p>
-                  <label>Your Email: <input type="email" name="email" /></label>
+                  <label>Your Email: <input type="email" name="email" required/></label>
                 </p>
                 <p>
-                  <label>Message: <textarea name="message"></textarea></label>
+                  <label>Message: <textarea name="message" required></textarea></label>
                 </p>
 
                 <p>
