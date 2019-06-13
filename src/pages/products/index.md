@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: Our Programs and Prices
-image: /img/jumbotron.jpg
+image: /img/girl-scouts-05.png
 heading: Great programs with a conscience
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
