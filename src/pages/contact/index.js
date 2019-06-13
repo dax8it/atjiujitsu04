@@ -45,6 +45,7 @@ export default class Index extends React.Component {
                 name="AT3-contact" 
                 method="POST" 
                 data-netlify="true"
+                data-netlify-recaptcha="true"
                 data-netlify-honeypot="bot-field">
 
                   
@@ -66,7 +67,9 @@ export default class Index extends React.Component {
                 <p>
                   <label>Message: <textarea name="message" required></textarea></label>
                 </p>
-
+                <p>
+                <div data-netlify-recaptcha="true"></div>
+                </p>
                 <p>
                   <button type="submit">Send</button>
                 </p>
