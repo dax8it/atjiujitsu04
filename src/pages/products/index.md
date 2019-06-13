@@ -3,11 +3,7 @@ templateKey: product-page
 title: Our Programs and Prices
 image: /img/girl-scouts-05.png
 heading: Great programs with a conscience
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+description: BJJ School
 intro:
   blurbs:
     - image: /img/BJJ.png
