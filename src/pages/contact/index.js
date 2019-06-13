@@ -45,7 +45,9 @@ export default class Index extends React.Component {
                 name="AT3-contact" 
                 method="POST" 
                 data-netlify="true"
-                data-netlify-honeypot="bot-field">
+                data-netlify-honeypot="bot-field"
+                data-netlify-recaptcha="true">
+                  
 
                    {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
                 <input type="hidden" name="form-name" value="AT3-contact" />
@@ -55,26 +57,20 @@ export default class Index extends React.Component {
                     <input name="bot-field" onChange={this.handleChange} />
                   </label>
                 </div>
-
-  <p>
-    <label>Your Name: <input type="text" name="name" /></label>   
-  </p>
-  <p>
-    <label>Your Email: <input type="email" name="email" /></label>
-  </p>
-  <p>
-    <label>Your Role: <select name="role[]" multiple>
-      <option value="leader">Leader</option>
-      <option value="follower">Follower</option>
-    </select></label>
-  </p>
-  <p>
-    <label>Message: <textarea name="message"></textarea></label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
-  </form>
+                <p>
+                  <label>Your Name: <input type="text" name="name" /></label>   
+                </p>
+                <p>
+                  <label>Your Email: <input type="email" name="email" /></label>
+                </p>
+                <p>
+                  <label>Message: <textarea name="message"></textarea></label>
+                </p>
+                  <div data-netlify-recaptcha="true"></div>
+                <p>
+                  <button type="submit">Send</button>
+                </p>
+              </form>
 
               </div>
             </div>
