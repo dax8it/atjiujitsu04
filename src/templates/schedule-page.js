@@ -9,6 +9,25 @@ export const SchedulePageTemplate = ({ title, content, contentComponent }) => {
 
   return (
     <section className="section section--gradient">
+      <div
+    className="full-width-image-container margin-top-0"
+    style={{
+      backgroundImage: `url('/img/index-kids.jpg')`,
+    }}
+  >
+    <h1
+      className="has-text-weight-bold is-size-1"
+      style={{
+        boxShadow: '0.5rem 0 0 #1c5996, -0.5rem 0 0 #1c5996',
+        backgroundColor: '#1c5996',
+        color: 'white',
+        padding: '1rem',
+      }}
+    >
+      Adult and Kids Schedules
+    </h1>
+  </div>
+      
       <div className="container">
         <div className="columns">
           <div className="column is-10 is-offset-1">

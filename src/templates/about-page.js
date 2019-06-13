@@ -35,12 +35,37 @@ const AboutPage = ({ data }) => {
   const { markdownRemark: post } = data
 
   return (
-    <Layout>
+    <Layout>        
+      
+      <div
+    className="full-width-image-container margin-top-0"
+    style={{
+      backgroundImage: `url('/img/index-our-team.jpg')`,
+    }}
+  >
+    <h1
+      className="has-text-weight-bold is-size-1"
+      style={{
+        boxShadow: '0.5rem 0 0 #1c5996, -0.5rem 0 0 #1c5996',
+        backgroundColor: '#1c5996',
+        color: 'white',
+        padding: '1rem',
+      }}
+    >
+      Our Team
+    </h1>
+  </div>
+  <section className="section">
+    <div className="container">
+      <div className="content">
       <AboutPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
         content={post.html}
       />
+      </div>
+    </div>
+  </section>
     </Layout>
   )
 }
