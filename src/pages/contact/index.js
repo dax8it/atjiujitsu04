@@ -45,8 +45,8 @@ export default class Index extends React.Component {
                 name="AT3-contact" 
                 method="POST" 
                 data-netlify="true"
-                data-netlify-honeypot="bot-field"
-                data-netlify-recaptcha="true">
+                data-netlify-honeypot="bot-field">
+
                   
 
                    {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
@@ -66,7 +66,7 @@ export default class Index extends React.Component {
                 <p>
                   <label>Message: <textarea name="message"></textarea></label>
                 </p>
-                  <div data-netlify-recaptcha="true"></div>
+
                 <p>
                   <button type="submit">Send</button>
                 </p>
