@@ -41,9 +41,9 @@ export default class Index extends React.Component {
       <Layout>
 
 <section>
-  <div className="row">
+  <div className="row1">
 
-              <div className="column">
+              <div className="column2">
                 <section className="section">
                   <div className="container">
                     <div className="content">
@@ -84,7 +84,7 @@ export default class Index extends React.Component {
               </div>
 
 
-          <div class="column">
+          <div class="column2">
             <section>
               <div className="container contacts">
                 <div className="row">
