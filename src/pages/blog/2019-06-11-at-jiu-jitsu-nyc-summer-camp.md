@@ -6,7 +6,7 @@ description: >-
   4 WEEK SUMMER SESSION. Come join us for fun all day activities during the
   summer!
 featuredpost: true
-featuredimage: /img/summercamp.png
+featuredimage: /img/summer-flyer.jpg
 tags:
   - kids
   - summer camp
