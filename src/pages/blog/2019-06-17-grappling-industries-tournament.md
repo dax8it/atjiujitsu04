@@ -9,7 +9,7 @@ featuredpost: false
 featuredimage: >-
   /img/no-kids-or-adult-works-harder-than-this-young-man.-super-proud-of-him-for-wanting-to-show-off-his-skills-_grapplingindustries-last-weekend.-.jpg
 ---
-![No kids or adult works harder than this young man. Super proud of him for wanting to show off his skills _grapplingindustries last weekend. ](/img/no-kids-or-adult-works-harder-than-this-young-man.-super-proud-of-him-for-wanting-to-show-off-his-skills-_grapplingindustries-last-weekend.-.jpg "Elek ")
+![](/img/no-kids-or-adult-works-harder-than-this-young-man.-super-proud-of-him-for-wanting-to-show-off-his-skills-_grapplingindustries-last-weekend.-.jpg "Elek ")
 
 **No kids or adult works harder than this young man. Super proud of him for wanting to show off his skills at Grappling Industries last weekend.** 
 
