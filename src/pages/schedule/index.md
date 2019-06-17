@@ -19,7 +19,7 @@ title: Adult and Kids Schedule
 
 ## TUESDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **Jiu-Jitsu:** 6:15 to 7:30 am
 
@@ -36,7 +36,7 @@ _**Morning Class**_
 
 ## THURSDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **Jiu-Jitsu:** 6:15 to 7:30 am
 
