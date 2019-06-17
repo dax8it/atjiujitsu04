@@ -22,17 +22,10 @@ tags:
 **(Limited Spots Available!!!)**
 
 
-You say goodbye and I say hello. This is the way the world goes around and around. ANd it will not stop for you and I, so we need to build a spaceship to leave this place. In hopes to finding a shooting star that we can ride along the Milky Way.
-
-
 
 - - -
 
-
-
-
 ### TUESDAY
-
 
 * **8:30 am - 9:00 am:** Arrival
 * **9:00 am - 10:00 am:** Jiu-jitsu All Ages
@@ -64,15 +57,9 @@ You say goodbye and I say hello. This is the way the world goes around and aroun
 
 ### FRIDAY
 
-
 * **10:00 am - 2:00 pm:** Field Trip _(Every Other Friday)_
 
-
-
 <br>
-
-
-
 
 - - -
 
