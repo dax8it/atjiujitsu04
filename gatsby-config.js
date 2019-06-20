@@ -2,9 +2,9 @@ var proxy = require('http-proxy-middleware')
 
 module.exports = {
   siteMetadata: {
-    title: 'AtJiujitsuNYC',
+    title: 'AT JIU-JITSU NYC | QUEENS | JACKSON HEIGHTS',
     description:
-      'Martial Arts School serving the local Jackson Heights, Queens community.',
+      'Martial Arts School serving the local Jackson Heights and Queens community.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
