@@ -2,9 +2,9 @@ var proxy = require('http-proxy-middleware')
 
 module.exports = {
   siteMetadata: {
-    title: 'AT JIU-JITSU NYC | QUEENS | JACKSON HEIGHTS',
+    title: 'AT JIU-JITSU NYC | MARTIAL ARTS GYM | JIU JITSU - MUAY THAI - KICKBOXING - MMA - YOGA - FITNESS | QUEENS | JACKSON HEIGHTS',
     description:
-      'Martial Arts School serving the local Jackson Heights and Queens community.',
+      'Martial Arts School (JIU JITSU - MUAY THAI - KICKBOXING - MMA - YOGA - FITNESS) serving the local Jackson Heights and Queens community. Adult and childrens classes.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
