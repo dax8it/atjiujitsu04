@@ -118,12 +118,13 @@ intro:
     a better sense of themselves in both mind and body, all while learning about
     the sport and self-defense aspects of these martial arts.
 main:
-  heading: The best choice for your health and mind
+  heading: The best Martial Arts Gym serving the Jackson Heights Queens Community
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    We believe in letting out students develop and grow with us. Our school is
+    young, and it's a pleasure to have so many of you join us on our journey.
+    From our youngest 3 yr old toddler, to our purple belt grandmother at 60
+    years young. Without your love and dedication to the sport, we wouldn't be
+    here serving the community. 
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -134,14 +135,17 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Alex Covo
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      I enrolled my son, then I got hooked doing BJJ. Professor Alvaro, along
+      with professor Alex have been instrumental in getting me addicted to this
+      wonderful art called BJJ. It's had a dramatic positive impact on my mental
+      and physical health. I've also made some great connections that share the
+      same love of this sport. I would recommend anyone to come try it out. I
+      originally enrolled my son in their toddler program, which is taught by
+      Professor Alvero. He is truly amazing with the kids. I decided to give it
+      a go and haven't looked back. I hope to continue on this journey for years
+      to come.
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
