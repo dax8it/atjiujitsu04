@@ -2,8 +2,8 @@
 templateKey: product-page
 title: Our Programs and Prices
 image: /img/girl-scouts-05.png
-heading: Great programs with a conscience
-description: BJJ School
+heading: 'ATJIUJITSU MARTIAL ARTS GYM '
+description: 'Martial Arts and Fitness • Jackson Heights • Queens '
 intro:
   blurbs:
     - image: /img/BJJ.png
@@ -118,7 +118,7 @@ intro:
     a better sense of themselves in both mind and body, all while learning about
     the sport and self-defense aspects of these martial arts.
 main:
-  heading: The best Martial Arts Gym serving the Jackson Heights Queens Community
+  heading: The best Martial Arts Gym serving the Jackson Heights & Queens Community
   description: >
     We believe in letting out students develop and grow with us. Our school is
     young, and it's a pleasure to have so many of you join us on our journey.
@@ -126,13 +126,13 @@ main:
     years young. Without your love and dedication to the sport, we wouldn't be
     here serving the community. 
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: 'Muay-Thai at AT Jiu-Jitsu NYC '
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Brazilian Jiu-Jitsu in the heart of Jackson Heights Queens NYC
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: Our great students and community makes us strong!
     image: /img/products-grid1.jpg
 testimonials:
   - author: Alex Covo
