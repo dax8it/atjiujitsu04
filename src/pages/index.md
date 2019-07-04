@@ -55,11 +55,12 @@ intro:
         Brazilian Jiu-Jitsu is THE BEST non-violent self defense for children
         and teens. Our toddlers learn takedowns, throws, falling, controls…
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: >-
+    AT Jiu-Jitsu NYC is a martial arts school that focuses on providing the
+    local community with a clean and safe environment where members will be able
+    to focus and work on improving their health. Members will also have the
+    opportunity to connect and interact with other members in the community
+    while engaging in classes.
 main:
   heading: Great coffee with no compromises
   description: >
@@ -68,13 +69,15 @@ main:
     journey. We personally visit each farm to make sure the conditions are
     optimal for the plants, farmers and the local environment.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Atjiujitsu also offers kickboxing classes
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Atjiujitsu training in Jackson Heights Queens NYC
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: >-
+      Atjiujitsu is a great place to share the love of jiujitsu. We are all
+      friends and support each other.
     image: /img/products-grid1.jpg
 ---
 
