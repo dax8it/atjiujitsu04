@@ -6,8 +6,6 @@ title: Adult and Kids Schedule
 
 # Adult Classes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UE0iuLcMvu8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 - - -
 
 <br>
@@ -19,11 +17,11 @@ title: Adult and Kids Schedule
 
 ## TUESDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **Jiu-Jitsu:** 6:15 to 7:30 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
 * **Muay Thai:** 6:00 to 7:00 pm
 * **Smarter Yoga:** 7:00 to 8:00 pm
@@ -36,11 +34,11 @@ _**Morning Class**_
 
 ## THURSDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **Jiu-Jitsu:** 6:15 to 7:30 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
 * **Muay Thai:** 6:15 to 7:00 pm
 * **Jiu-Jitsu:** 7:15 to 8:15 pm
@@ -69,10 +67,6 @@ _**Morning Class**_
 <br>
 
 # Kids Classes
-
-<br>
-
-<iframe title="Kids Jiujitsu Classes" width="640" height="361" src="https://www.youtube.com/embed/PIhQEZQEjqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
