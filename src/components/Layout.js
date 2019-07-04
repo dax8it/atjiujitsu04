@@ -41,8 +41,15 @@ const TemplateWrapper = ({ children }) => {
 
         <meta property="og:type" content="business.business" />
         <meta property="og:title" content={title} />
-        <meta property="og:url" content="/" />
+        <meta property="og:url" content="http://www.atjiujitsunyc.com/" />
+        <meta property="og:video:secure_url" content="https://vimeo.com/317633674" />
         <meta property="og:image" content="/img/og-image.jpg" />
+        <meta property="business:contact_data:street_address" content="80-22 Northern Blvd." />
+        <meta property="business:contact_data:locality" content="Jackson Heights" />
+        <meta property="business:contact_data:region" content="NY" />
+        <meta property="business:contact_data:postal_code" content="11372" />
+        <meta property="business:contact_data:country_name" content="United States" />
+
       </Helmet>
       <Navbar />
       <div>{children}</div>
