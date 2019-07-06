@@ -4,11 +4,33 @@ title: Adult and Kids Schedule
 ---
 <br>
 
+- - -
+
+## **\-** **$20 Unlimited Classes for 7 Days**
+
+**\- Classes include Kickboxing, Muay-Thai, Jiu-Jitsu and Yoga** 
+
+**\- Kids receive a free gi!**
+
+## **\*\*\*Enter our email raffle to win a free two week membership\*\*\***
+
+\- Be sure to include **"**[**Free Email Raffle**](mailto://info@atjiujitsunyc.com)**"** in the[ subject of your email! ](mailto://info@atjiujitsunyc.com)
+
+<br>
+
+[Contact Us](https://www.atjiujitsunyc.com/contact) at (917)-745-1772 or email [info@atjiujitsunyc.com](mailto://info@atjiujitsunyc.com)
+
+- - -
+
+<br>
+
 # Adult Classes
 
 - - -
 
 <br>
+
+Check out our adult and kids schedule below.
 
 ## MONDAY
 
