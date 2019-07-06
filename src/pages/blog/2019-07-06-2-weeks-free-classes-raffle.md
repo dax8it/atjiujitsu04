@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: '*2 Weeks Free Classes Raffle*'
+title: 2 Weeks Free Classes Raffle
 date: 2019-07-06T15:52:32.084Z
 description: Enter our email raffle to win a free two week membership
 featuredpost: false
