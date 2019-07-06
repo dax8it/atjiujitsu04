@@ -6,4 +6,10 @@ description: Enter our email raffle to win a free two week membership
 featuredpost: false
 featuredimage: /img/2019_07_06_115053.jpg
 ---
-Be sure to include "Free Email Raffle" in the subject of your email! Send email to info@atjiujitsunyc.com
+![](/img/2019_07_06_115053.jpg)
+
+# Be sure to include "Free Email Raffle" in the subject of your email! 
+
+
+
+# Send email to atjiujitsunyc@gmail.com
