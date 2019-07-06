@@ -14,7 +14,7 @@ title: Adult and Kids Schedule
 
 ## **\*\*\*Enter our email raffle to win a free two week membership\*\*\***
 
-\- Be sure to include **"**[**Free Email Raffle**](mailto://info@atjiujitsunyc.com)**"** in the[ subject of your email! ](mailto://info@atjiujitsunyc.com)
+\- Be sure to include **"**[**Free Email Raffle**](mailto://info@atjiujitsunyc.com)**"** in the[ subject of your email! ](mailto://info@atjiujitsunyc.com) Send email to [info@atjiujitsunyc.com](mailto://info@atjiujitsunyc.com)
 
 <br>
 
@@ -39,11 +39,11 @@ Check out our adult and kids schedule below.
 
 ## TUESDAY
 
-**_Morning Class_**
+_**Morning Class**_
 
 * **Jiu-Jitsu:** 6:15 to 7:30 am
 
-_**Afternoon Class**_
+**_Afternoon Class_**
 
 * **Muay Thai:** 6:00 to 7:00 pm
 * **Smarter Yoga:** 7:00 to 8:00 pm
@@ -56,11 +56,11 @@ _**Afternoon Class**_
 
 ## THURSDAY
 
-**_Morning Class_**
+_**Morning Class**_
 
 * **Jiu-Jitsu:** 6:15 to 7:30 am
 
-_**Afternoon Class**_
+**_Afternoon Class_**
 
 * **Muay Thai:** 6:15 to 7:00 pm
 * **Jiu-Jitsu:** 7:15 to 8:15 pm
