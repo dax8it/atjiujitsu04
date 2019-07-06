@@ -14,11 +14,11 @@ title: Adult and Kids Schedule
 
 ## **\*\*\*Enter our email raffle to win a free two week membership\*\*\***
 
-\- Be sure to include **"**[**Free Email Raffle**](mailto://info@atjiujitsunyc.com)**"** in the[ subject of your email! ](mailto://info@atjiujitsunyc.com) Send email to [info@atjiujitsunyc.com](mailto://info@atjiujitsunyc.com)
+\- Be sure to include **"**[**Free Email Raffle**](mailto:info@atjiujitsunyc.com)**"** in the[ subject of your email! ](mailto:info@atjiujitsunyc.com) Send email to [info@atjiujitsunyc.com](mailto:info@atjiujitsunyc.com)
 
 <br>
 
-[Contact Us](https://www.atjiujitsunyc.com/contact) at (917)-745-1772 or email [info@atjiujitsunyc.com](mailto://info@atjiujitsunyc.com)
+[Contact Us](https://www.atjiujitsunyc.com/contact) at (917)-745-1772 or email [info@atjiujitsunyc.com](mailto:info@atjiujitsunyc.com)
 
 - - -
 
