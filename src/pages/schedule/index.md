@@ -12,13 +12,17 @@ title: Adult and Kids Schedule
 
 **\- Kids receive a free gi!**
 
-## **\*\*\*Enter our free email giveaway contest to win a free two week membership\*\*\***
+For more info Contact Us [**Here**](https://www.atjiujitsunyc.com/contact) or by calling (917)-745-1772 or email <mailto:atjiujitsunyc@gmail.com>
 
-\- Be sure to include **"**[**Free Email Giveaway**](mailto:atjiujitsunyc@gmail.com?subject=FREE-EMAIL-GIVEAWAY)**"** in the[ subject of your email! ](mailto:atjiujitsunyc@gmail.com?subject=FREE-EMAIL-GIVEAWAY) Send email to [atjiujitsunyc@gmail.com](mailto:atjiujitsunyc@gmail.com)
+- - -
+
+## **\*\*\*Email Giveaway Contest\*\*\***
+
+## Enter our email giveaway contest to win 2 weeks of Jiujitsu and May Thai classes for free!
+
+\- Be sure to include **"**[**Free Email Giveaway**](mailto:atjiujitsunyc@gmail.com?subject=FREE-EMAIL-GIVEAWAY)**"** in the[ subject of your email! ](mailto:atjiujitsunyc@gmail.com?subject=FREE-EMAIL-GIVEAWAY) Send email to <mailto:atjiujitsunyc@gmail.com>
 
 <br>
-
-[Contact Us](https://www.atjiujitsunyc.com/contact) at (917)-745-1772 or email [atjiujitsunyc@gmail.com](mailto:atjiujitsunyc@gmail.com?subject=FREE-EMAIL-GIVEAWAY)
 
 - - -
 
