@@ -62,12 +62,11 @@ intro:
     opportunity to connect and interact with other members in the community
     while engaging in classes.
 main:
-  heading: Great coffee with no compromises
+  heading: We're more than just a Martial Arts School. We're a Family
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    We provide our close knit community with an environment of support and
+    compassion from all our teachers and students. Our love of Jiujitsu is only
+    matched by the dedication we have to our students. Our Jiujitsu family.
   image1:
     alt: Atjiujitsu also offers kickboxing classes
     image: /img/products-grid3.jpg
