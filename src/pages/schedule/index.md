@@ -43,11 +43,11 @@ Check out our adult and kids schedule below.
 
 ## TUESDAY
 
-**_Morning Class_**
+_**Morning Class**_
 
 * **Jiu-Jitsu:** 6:15 to 7:30 am
 
-_**Afternoon Class**_
+**_Afternoon Class_**
 
 * **Muay Thai:** 6:00 to 7:00 pm
 * **Smarter Yoga:** 7:00 to 8:00 pm
@@ -60,11 +60,11 @@ _**Afternoon Class**_
 
 ## THURSDAY
 
-**_Morning Class_**
+_**Morning Class**_
 
 * **Jiu-Jitsu:** 6:15 to 7:30 am
 
-_**Afternoon Class**_
+**_Afternoon Class_**
 
 * **Muay Thai:** 6:15 to 7:00 pm
 * **Jiu-Jitsu:** 7:15 to 8:15 pm
@@ -72,13 +72,13 @@ _**Afternoon Class**_
 ## FRIDAY
 
 * **Kickboxing:** 6:15 to 7:15 pm
-* **Jiu-Jitsu:** 7:15 to 8:15 pm
+* **No Gi Jiu-Jitsu:** 7:15 to 8:15 pm
 
 ## SATURDAY
 
-* **Kickboxing:** 12:15 to 1:00 pm
-* **Jiu-Jitsu No Gi:** 1:00 to 2:00 pm
-* **Smarter Yoga:** 2:00 to 3:00 pm 	
+* **Kickboxing:** 12:15 to 1:15 pm
+* **Jiu-Jitsu No Gi:** 1:15 to 2:15 pm
+* **Smarter Yoga:** 2:15 to 3:15 pm 	
 
 ## SUNDAY
 
