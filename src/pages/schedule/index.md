@@ -77,7 +77,7 @@ _**Morning Class**_
 ## SATURDAY
 
 * **Kickboxing:** 12:15 to 1:15 pm
-* **Jiu-Jitsu No Gi:** 1:15 to 2:15 pm
+* **No Gi Jiu-Jitsu:** 1:15 to 2:15 pm
 * **Smarter Yoga:** 2:15 to 3:15 pm 	
 
 ## SUNDAY
