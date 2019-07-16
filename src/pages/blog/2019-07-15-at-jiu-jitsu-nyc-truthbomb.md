@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'AT Jiu-Jitsu NYC, TruthBomb'
+title: 'TruthBomb, AT JIU-JITSU NYC'
 date: 2019-07-15T23:37:45.533Z
 description: >-
   Life, Jiu-Jitsu and the Struggle. Professor Alvaro explains finding the
