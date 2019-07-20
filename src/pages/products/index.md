@@ -133,7 +133,7 @@ main:
     image: /img/products-grid2.jpg
   image3:
     alt: Our great students and community makes us strong!
-    image: /img/products-grid1.jpg
+    image: /img/dsc02898.jpg
 testimonials:
   - author: Alex Covo
     quote: >-
