@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: 'TruthBomb, AT JIU-JITSU NYC'
-date: 2019-07-15T23:37:45.533Z
+title: 'FINDING THE MOTIVATION TO TRAIN '
+date: 2019-07-15T04:00:00.000Z
 description: >-
   Life, Jiu-Jitsu and the Struggle. Professor Alvaro explains finding the
   motivation to train and improve. 
