@@ -3,9 +3,9 @@ templateKey: blog-post
 title: 'Register Now, Grappling Industries Tournament (September 28th) '
 date: 2019-07-27T13:01:11.968Z
 description: |
-  Grappling Industries MANHATTAN: September 28, 2019
+  Grappling Industries MANHATTAN: September 28, 2019,
 
-  Location: Baruch College
+  Location: Baruch College,
 
   Doors Open @ 7:30am | Event Starts @ 9:00 a.m. 
 featuredpost: false
