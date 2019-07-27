@@ -9,7 +9,7 @@ description: |
 
   Doors Open @ 7:30am | Event Starts @ 9:00 a.m. 
 featuredpost: false
-featuredimage: /img/grappling-industries-manhattan-2019.jpg
+featuredimage: /img/grapp.png
 ---
 <https://grapplingindustries.smoothcomp.com/en/event/2125>
 
