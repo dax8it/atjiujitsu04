@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'September Grappling Industries Tournament (Register Now) '
+title: 'Register Now, Grappling Industries Tournament (September 28th) '
 date: 2019-07-27T13:01:11.968Z
 description: |
   Grappling Industries MANHATTAN: September 28, 2019
