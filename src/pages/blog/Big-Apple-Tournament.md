@@ -17,7 +17,7 @@ tags:
 ---
 ![](/img/big-apple-pic-12.png)
 
-Another win for one of our favorites. They're all our favorites!!!
+Another win from some of our favorites. They're all our favorites!!!
 
 ## Congrats to all our kids who competed
 
