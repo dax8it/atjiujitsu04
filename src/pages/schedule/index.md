@@ -123,7 +123,7 @@ _**Morning Class**_
 ### FRIDAY
 
 * **Kids Judo (Ages 5 to 9):** 4:00 to 4:45pm
-* **Kids No Gi Jiu-Jitsu (Ages 10 to 13):** 5:00 to 5:45pm
+* **Kids No Gi Jiu-Jitsu (Ages 8 to 13):** 5:00 to 5:45pm
 
 ### SATURDAY
 
