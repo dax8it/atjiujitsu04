@@ -161,20 +161,19 @@ pricing:
         - Kickboxing
         - Yoga
       plan: 7 days a week - unlimited classes
-      price: '135'
+      price: '155'
     - description: Great for adventurous kids
       items:
         - learn to concentrate
-        - get physical
-        - learn self defense
+        - learn throws (Judo)
+        - learn Self Defense
       plan: Age 3-4 Toddler Classes
-      price: '105'
-    - description: Want to be awesome? Boom!
+      price: '135'
+    - description: Unlimited Classes ($135 x 6)
       items:
-        - Increase flexibility
-        - better cardiovascular
-        - tone up
-      plan: Smarter Yoga
-      price: '105'
+        - 6 Month Agreement
+        - Discount Rate (Compared to $155 Monthly)
+      plan: Pay  In Full (6 Months)
+      price: '810'
 ---
 
