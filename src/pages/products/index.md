@@ -172,7 +172,7 @@ pricing:
     - description: Unlimited Classes ($135 x 6)
       items:
         - 6 Month Agreement
-        - Discount Rate
+        - Unlimited Classes
         - $135 Monthly (Compared to $155)
       plan: Pay  In Full (6 Months)
       price: '810'
