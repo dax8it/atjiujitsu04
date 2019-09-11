@@ -100,36 +100,36 @@ _**Morning Class**_
 
 ### MONDAY
 
-* **Kids Judo (Ages 5 to 7):** 4:00 to 4:45pm
-* **Kids Jiu-Jitsu (Ages 8 to 12)** 5:00 to 5:45pm
+* **Kids Judo (Ages 5 to 9):** 4:00 to 4:45pm
+* **Kids Jiu-Jitsu (Ages 10 to 13)** 5:00 to 5:45pm
 
 ### TUESDAY
 
-* **Kids Jiu-Jitsu (Ages 5 to 7):** 3:15 to 4:00pm
+* **Kids Jiu-Jitsu (Ages 5 to 9):** 3:15 to 4:00pm
 * **Kids Muay Thai (Ages 8 to 13):** 4:00 to 4:45pm
-* **Kids Jiu-Jitsu (Ages 8 to 12):** 5:00 to 5:45pm
+* **Kids Jiu-Jitsu (Ages 10 to 13):** 5:00 to 5:45pm
 
 ### WEDNESDAY
 
-* **Kids Judo (Ages 5 to 7):** 4:00 to 4:45pm
-* **Kids Jiu-Jitsu (Ages 8 to 12):** 5:00 to 5:45pm
+* **Kids Judo (Ages 5 to 9):** 4:00 to 4:45pm
+* **Kids Jiu-Jitsu (Ages 10 to 13):** 5:00 to 5:45pm
 
 ### THURSDAY
 
-* **Kids Jiu-Jitsu (Ages 5 to 7):** 3:15 to 4:00pm
+* **Kids Jiu-Jitsu (Ages 5 to 9):** 3:15 to 4:00pm
 * **Kids Muay Thai (Ages 8 to 13):** 4:00 to 4:45pm
-* **Kids Jiu-Jitsu (Ages 8 to 12):** 5:00 to 5:45pm
+* **Kids Jiu-Jitsu (Ages 10 to 13):** 5:00 to 5:45pm
 
 ### FRIDAY
 
-* **Kids Judo (Ages 5 to 7):** 4:00 to 4:45pm
-* **Kids No Gi Jiu-Jitsu (Ages 8 to 12):** 5:00 to 5:45pm
+* **Kids Judo (Ages 5 to 9):** 4:00 to 4:45pm
+* **Kids No Gi Jiu-Jitsu (Ages 8 to 13):** 5:00 to 5:45pm
 
 ### SATURDAY
 
 * **Toddler Jiu-Jitsu (Ages 3 to 4):** 9:15 to 10:00am
-* **Kids Jiu-Jitsu (Ages 5 to 7):** 10:15 to 11:00pm
-* **Kids Jiu-Jitsu (Ages 8 to 12):** 11:15 to 12:00pm 	
+* **Kids Jiu-Jitsu (Ages 5 to 9):** 10:15 to 11:00pm
+* **Kids Jiu-Jitsu (Ages 10 to 13):** 11:15 to 12:00pm 	
 
 ### SUNDAY
 
