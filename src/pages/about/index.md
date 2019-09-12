@@ -2,7 +2,9 @@
 templateKey: about-page
 title: About our team
 ---
-![Professor Alvaro Tautiva - Owner and Head Instructor](/img/alvaro.png "Professor Alvaro Tautiva - Owner and Head Instructor")
+# 
+
+![](/img/alvaro.png)
 
 # Professor Alvaro Tautiva
 
@@ -48,7 +50,7 @@ Kim has a BS in Biochemistry from Florida State University (2005), is certified 
 
 <br>
 
-![Morgan ChenMuy-Thai Instructor](/img/morgan.png "Morgan ChenMuy-Thai Instructor")
+![Morgan Chen Muy-Thai Instructor](/img/0.png "Morgan Chen Muy-Thai Instructor")
 
 # Morgan Chen
 
@@ -92,3 +94,14 @@ As Co-Owner and Assistant Program Director of AT Jiu-Jitsu NYC, Daniela has work
 
 Daniela is a 2nd Degree Brown Belt in Shotokan Karate through Sensei Kai Leung and is currently a purple belt in Brazilian Jiu-Jitsu.
 
+<br>
+
+- - -
+
+![](/img/dsc04092..jpg)
+
+# Arianna Calle
+
+## Assistant Coach
+
+Arianna has been training Jiu-Jitsu for 3 years now and is currently a yellow belt. She is highly motivated and a big participator in all of our classes including Muay Thai, Kickboxing, Yoga and Jiu-Jitsu. You can find her on the mats during the kids classes assisting Professor Alvaro and during the adults classes where she is constantly training.
