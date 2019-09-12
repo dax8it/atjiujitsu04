@@ -86,7 +86,7 @@ Natalia has always loved caring for children and was studying to become a teache
 
 ## Coach and Assistant Program Director
 
-Gabriela, known as Gaby has been training in Jiu-Jitsu for one year. She is currently a three stripe white belt. Along with Jiu-Jitsu, Gaby also takes kickboxing and is a college student at the City College Of New York as a Political Science Major. Gaby can be found assisting Professor Alvaro during the kids classes or at the desk on Fridays.
+Gabriela, mainly known as Gaby has been training in Jiu-Jitsu for one year. She is currently a three stripe white belt. Along with Jiu-Jitsu, Gaby also takes kickboxing and is a college student at the City College Of New York as a Political Science Major. Gaby can be found assisting Professor Alvaro during the kids classes or at the desk on Fridays.
 
 <br>
 
