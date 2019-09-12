@@ -50,7 +50,7 @@ Kim has a BS in Biochemistry from Florida State University (2005), is certified 
 
 <br>
 
-![Morgan Chen Muy-Thai Instructor](/img/0.png "Morgan Chen Muy-Thai Instructor")
+![](/img/0.png)
 
 # Morgan Chen
 
