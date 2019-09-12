@@ -72,27 +72,21 @@ Morgan admits to being a diehard **NY Knicks** and **New York Mets** fan, and re
 
 ## Program Director
 
-Natalia was born and raised in Jackson Heights and as such shares the love for the community. Natalia obtained an Associate Degree in Criminal Justice from Queensborough Community College in 2018 and is currently studying to obtain her BS in Criminal Justice from John Jay College.
+Natalia was born and raised in Jackson Heights and as such shares the love for the community. Natalia obtained an Associate Degree in Criminal Justice from Queensborough Community College in 2018 and is currently studying to obtain her BS in Criminal Justice. During her free time, you can find Natalia on the mats taking our Kickboxing classes where she has been training for over a year. 
 
 Natalia has always loved caring for children and was studying to become a teacher for elementary school aged children prior to changing her major. While her major has changed, her dedication to the well-being of children has remained. 
-
-<br>
 
 - - -
 
 <br>
 
-![Daniela Tautiva M.S.WCo-Owner and Assistant Program Director](/img/daniela.png "Daniela Tautiva M.S.WCo-Owner and Assistant Program Director")
+![](/img/img_1880.jpeg)
 
-# Daniela Tautiva M.S.W
+# Gabriela Vallebuona
 
-## Co-Owner and Assistant Program Director
+## Coach and Assistant Program Director
 
-Daniela obtained her Masters in Social Work from Adelphi University in 2018 and currently works as a Foster Care Case Planner. Having been raised in Jackson Heights and being the daughter of immigrant parents, Daniela works closely with families with the goal of providing permanency and safety of their children.
-
-As Co-Owner and Assistant Program Director of AT Jiu-Jitsu NYC, Daniela has worked closely with Professor Alvaro to ensure that the programs offered at our school are tailored to the needs of every child and adult, with the goal of assisting our members in working to build confidence.
-
-Daniela is a 2nd Degree Brown Belt in Shotokan Karate through Sensei Kai Leung and is currently a purple belt in Brazilian Jiu-Jitsu.
+Gabriela, known as Gaby has been training in Jiu-Jitsu for one year. She is currently a three stripe white belt. Along with Jiu-Jitsu, Gaby also takes kickboxing and is a college student at the City College Of New York as a Political Science Major. Gaby can be found assisting Professor Alvaro during the kids classes or at the desk on Fridays.
 
 <br>
 
@@ -102,6 +96,23 @@ Daniela is a 2nd Degree Brown Belt in Shotokan Karate through Sensei Kai Leung a
 
 # Arianna Calle
 
-## Assistant Coach
+## Head Coach
 
 Arianna has been training Jiu-Jitsu for 3 years now and is currently a yellow belt. She is highly motivated and a big participator in all of our classes including Muay Thai, Kickboxing, Yoga and Jiu-Jitsu. You can find her on the mats during the kids classes assisting Professor Alvaro and during the adults classes where she is constantly training.
+<br>
+
+<br>
+
+- - -
+
+![Daniela Tautiva M.S.WCo-Owner and Assistant Program Director](/img/daniela.png "Daniela Tautiva M.S.WCo-Owner and Assistant Program Director")
+
+# Daniela Tautiva M.S.W
+
+## Co-Owner and Assistant Coach
+
+Daniela obtained her Masters in Social Work from Adelphi University in 2018 and currently works as a Foster Care Case Planner. Having been raised in Jackson Heights and being the daughter of immigrant parents, Daniela works closely with families with the goal of providing permanency and safety of their children.
+
+As Co-Owner and Assistant Program Director of AT Jiu-Jitsu NYC, Daniela has worked closely with Professor Alvaro to ensure that the programs offered at our school are tailored to the needs of every child and adult, with the goal of assisting our members in working to build confidence.
+
+Daniela is a 2nd Degree Brown Belt in Shotokan Karate through Sensei Kai Leung and is currently a purple belt in Brazilian Jiu-Jitsu.
