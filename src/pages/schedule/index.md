@@ -16,17 +16,7 @@ For more info Contact Us [**Here**](https://www.atjiujitsunyc.com/contact) or by
 
 - - -
 
-## **\*\*\*Email Giveaway Contest\*\*\***
 
-## Enter our email giveaway contest to win 2 weeks of Jiujitsu and May Thai classes for free!
-
-\- Be sure to include **"**[**Free Email Giveaway**](mailto:atjiujitsunyc@gmail.com?subject=FREE-EMAIL-GIVEAWAY)**"** in the[ subject of your email! ](mailto:atjiujitsunyc@gmail.com?subject=FREE-EMAIL-GIVEAWAY) Send email to <mailto:atjiujitsunyc@gmail.com>
-
-<br>
-
-- - -
-
-<br>
 
 # Adult Classes
 
@@ -43,11 +33,11 @@ Check out our adult and kids schedule below.
 
 ## TUESDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **Jiu-Jitsu:** 6:15 to 7:30 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
 * **Muay Thai:** 6:00 to 7:00 pm
 * **Smarter Yoga:** 7:00 to 8:00 pm
@@ -60,11 +50,11 @@ _**Morning Class**_
 
 ## THURSDAY
 
-_**Morning Class**_
+**_Morning Class_**
 
 * **Jiu-Jitsu:** 6:15 to 7:30 am
 
-**_Afternoon Class_**
+_**Afternoon Class**_
 
 * **Muay Thai:** 6:00 to 7:00 pm
 * **Jiu-Jitsu:** 7:15 to 8:30 pm
