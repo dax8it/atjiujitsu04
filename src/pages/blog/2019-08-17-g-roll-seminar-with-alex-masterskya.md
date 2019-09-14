@@ -32,6 +32,6 @@ featuredimage: /img/dsc6904.jpg
 
 ATJIUJITSUNYC
 
-80-82 Northern Blvd
+80-22 Northern Blvd
 Jackson Heights
 Queens, NY 11372
