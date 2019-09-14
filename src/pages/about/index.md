@@ -54,7 +54,7 @@ Kim has a BS in Biochemistry from Florida State University (2005), is certified 
 
 # Morgan Chen
 
-## Muy-Thai Instructor
+## Muay-Thai Instructor
 
 Morgan Chen is the Owner and Head Coach of **Astoria_BarbellClub and Crossfit_Astoria**. Morgan is of Taiwanese descent but was born and raised in Rego Park, Queens. He attended P.S. 139, Russel Sage JHS 190, then went onto Forest Hills High School. Morgan received his first nationally recognized personal training certification when he was 18 at NASM_Fitness. Surprisingly, his favorite hobby is eating. He loves to explore new restaurants and learning new cooking techniques.
 
