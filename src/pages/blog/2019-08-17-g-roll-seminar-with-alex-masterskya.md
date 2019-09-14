@@ -8,7 +8,7 @@ featuredimage: /img/dsc6904.jpg
 ---
 <center>
 
-# Thank you to everyone who joined us during Alex Masterskya, G-Roll Seminar. 
+# Thank you to everyone who joined us during Alex Masterskya, G-Roll Seminar.
 
 **AUGUST 31, 2019**
 
@@ -19,8 +19,6 @@ featuredimage: /img/dsc6904.jpg
 ![](/img/dsc6899.jpg)
 
 ![](/img/dsc6902.jpg)
-
-![](/img/3.jpg)
 
 ![](/img/dsc6901.jpg)
 
