@@ -4,7 +4,7 @@ title: G-Roll Seminar with Alex Masterskya
 date: 2019-08-18T01:57:17.012Z
 description: 'Thank you to everyone who joined us during Alex Masterskya, G-Roll Seminar.'
 featuredpost: true
-featuredimage: /img/11.jpg
+featuredimage: /img/dsc6904.jpg
 ---
 <center>
 
@@ -12,25 +12,25 @@ featuredimage: /img/11.jpg
 
 **AUGUST 31, 2019**
 
-![](/img/10.jpg "G-Roll Seminar with Alex Masterskya")
+![](/img/dsc6896.jpg "G-Roll Seminar with Alex Masterskya")
 
-![](/img/9.jpg)
+![](/img/dsc6897.jpg)
 
-![](/img/7.jpg)
+![](/img/dsc6898.jpg)
 
-![](/img/1.jpg)
+![](/img/dsc6899.jpg)
 
-![](/img/4.jpg)
+![](/img/dsc6902.jpg)
 
 ![](/img/3.jpg)
 
-![](/img/11.jpg)
+![](/img/dsc6901.jpg)
+
+![](/img/dsc6900.jpg)
+
+![](/img/dsc6904.jpg)
 
 - - -
-
-
-
-
 
 ATJIUJITSUNYC
 
