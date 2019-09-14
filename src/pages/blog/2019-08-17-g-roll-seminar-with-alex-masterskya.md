@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: G-Roll Seminar with Alex Masterskya
-date: 2019-08-18T01:57:17.012Z
+date: 2019-08-31T16:00:00.000Z
 description: 'Thank you to everyone who joined us during Alex Masterskya, G-Roll Seminar.'
 featuredpost: true
 featuredimage: /img/dsc6904.jpg
@@ -11,8 +11,6 @@ featuredimage: /img/dsc6904.jpg
 # 
 
 **AUGUST 31, 2019**
-
-![](/img/dsc6896.jpg "G-Roll Seminar with Alex Masterskya")
 
 ![](/img/dsc6897.jpg)
 
