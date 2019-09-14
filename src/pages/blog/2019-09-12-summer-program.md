@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Summer Program
 date: 2019-08-23T00:01:00.000Z
-description: Jiu-Jitsu Camp
+description: AT JIU-JITSU NYC's 4 Week Summer Program
 featuredpost: false
 featuredimage: /img/dsc03545.jpg
 ---
