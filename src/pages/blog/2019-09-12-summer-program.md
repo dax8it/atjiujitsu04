@@ -4,9 +4,9 @@ title: Summer Program
 date: 2019-08-23T00:01:00.000Z
 description: >-
   Our kids had a blast during our Summer Camp, with activities such as laser
-  tag, Mario Kart tournaments, dodgeball, Jiu-Jitsu, arts and crafts, and trips
-  to the pool, the library and museums, it was a summer we hope they'll never
-  forget!
+  tag, water balloon fights, Mario Kart tournaments, dodgeball, Jiu-Jitsu, arts
+  and crafts, and trips to the pool, the library and museums, it was a summer we
+  hope they'll never forget!
 featuredpost: false
 featuredimage: /img/dsc03545.jpg
 ---
