@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: Summer Program
+title: AT JIU-JITSU NYC's 4 Week Summer Program
 date: 2019-08-23T00:01:00.000Z
-description: AT JIU-JITSU NYC's 4 Week Summer Program
+description: '4 Week Summer Program, July 23rd - August 23rd 2019'
 featuredpost: false
 featuredimage: /img/dsc03545.jpg
 ---
@@ -10,11 +10,15 @@ featuredimage: /img/dsc03545.jpg
 
 ![](/img/1.jpg)
 
+![](/img/img_7284.jpg)
+
 ![](/img/6.jpg)
 
 ![](/img/11.jpg)
 
 ![](/img/5.jpg)
+
+![](/img/img_7412.jpg)
 
 ![](/img/10.jpg)
 
@@ -25,6 +29,8 @@ featuredimage: /img/dsc03545.jpg
 ![](/img/dsc03300-1-.jpg)
 
 ![](/img/13.jpg)
+
+![](/img/img_7331.jpg)
 
 ![](/img/4.jpg)
 
