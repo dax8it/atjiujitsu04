@@ -36,6 +36,8 @@ An active competitor in the BJJ scene, Professor Alvaro has competed and medaled
 
 Having been raised in Jackson Heights his whole life, Professor Alvaro dreamt about being able to bring Jiu-Jitsu to his community and giving members the opportunity to connect and interact with other members of the community while engaging in classes.
 
+<br>
+
 - - -
 
 <br>
@@ -100,6 +102,8 @@ Natalia was born and raised in Jackson Heights and as such shares the love for t
 
 Natalia has always loved caring for children and was studying to become a teacher for elementary school aged children prior to changing her major. While her major has changed, her dedication to the well-being of children has remained. 
 
+<br>
+
 - - -
 
 <br>
@@ -116,6 +120,8 @@ Gabriela, mainly known as Gaby has been training in Jiu-Jitsu for one year. She 
 
 - - -
 
+<br>
+
 ![](/img/dsc04092..jpg)
 
 # Arianna Calle
@@ -123,11 +129,12 @@ Gabriela, mainly known as Gaby has been training in Jiu-Jitsu for one year. She 
 ## Head Coach
 
 Arianna has been training Jiu-Jitsu for 3 years now and is currently a yellow belt. She is highly motivated and a big participator in all of our classes including Muay Thai, Kickboxing, Yoga and Jiu-Jitsu. You can find her on the mats during the kids classes assisting Professor Alvaro and during the adults classes where she is constantly training.
-<br>
 
 <br>
 
 - - -
+
+<br>
 
 ![Daniela Tautiva M.S.WCo-Owner and Assistant Program Director](/img/daniela.png "Daniela Tautiva M.S.WCo-Owner and Assistant Program Director")
 
