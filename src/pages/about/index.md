@@ -4,13 +4,21 @@ title: About our team
 ---
 # 
 
+![](/img/dsc06203.jpg)
+
+- - -
+
+<br>
+
+
+
 ![](/img/alvaro.png)
 
 # Professor Alvaro Tautiva
 
 ## Owner and Head Instructor
 
-[alvarotautiva@gmail.com](mailto://alvarotautiva@gmail.com)
+[atautivajr@gmail.com](mailto://alvarotautiva@gmail.com)
 
 Professor Alvaro is currently a Black belt in Brazilian Jiu-Jitsu and a Brown belt in Judo. Professor Alvaro obtained his black belt in Brazilian Jiu-Jitsu on December 2017 from Vitor Shaolin in NYC. Prior to Jiu-jitsu, he has trained and continues to train in Muay Thai, was a certified trainer through the National Academy of Sports Medicine (N.A.S.M.) and obtained an Associate Degree in Speech Pathology through LaGuardia Community College.
 
