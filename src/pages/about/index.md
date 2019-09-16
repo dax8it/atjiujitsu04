@@ -4,7 +4,7 @@ title: About our team
 ---
 # 
 
-![](/img/dsc06203.jpg)
+![](/img/dsc06203-1-.jpg)
 
 - - -
 
