@@ -19,9 +19,9 @@ tags:
 
 Another win from some of our favorites. They're all our favorites!!!
 
-## Congrats to all our kids who competed
+## Congrats to all our students who competed.
 
-We took 3rd place in kids team category. We're very proud of everything everyone has accomplished.
+We took 3rd place in kids team category. We're very proud of everyone who competed!
 
 ![](/img/big-apple-pic-02.png)
 
