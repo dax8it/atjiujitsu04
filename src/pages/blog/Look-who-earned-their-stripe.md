@@ -1,50 +1,45 @@
 ---
 templateKey: blog-post
-title: 'Look who earned their stripe! '
+title: Stripes and Belts Promotions
 date: 2019-04-03T14:04:10.000Z
 description: >-
-  We’re proud of our students and how hard they work at achieving their goals.
-  This is the first step in this long and wonderful journey!
+  Here are some of our students, who with hard work and determination have
+  earned their stripe or new belt! 
 featuredpost: false
-featuredimage: /img/first-stripe-05.png
+featuredimage: /img/img_7014.jpg
 tags:
   - bjj
   - promotion
   - stripes
   - success
 ---
-## ![Leslie's First Stripe!](/img/first-stripe-01.png "Leslie's First Stripe!")
+# We’re proud of our students and how hard they work at achieving their goals. This is the first step in this long and wonderful journey!
 
-**Leslie's First Stripe!**
+- - -
 
-## ****![Gaby's 2nd Stripe!](/img/first-stripe-02.png "Gaby's 2nd Stripe!")
+![](/img/dsc6540.jpg)
 
-**Gaby's 2nd Stripe!**
+**Kaitlyn** 
 
-## ![Robinson's First Stripe!](/img/first-stripe-03.png "Robinson's First Stripe!")
+![](/img/dsc06557.jpg)
 
-Robinson's First Stripe!
+**Mohamet**
 
-## ![Ryan's First Stripe!](/img/first-stripe-04.png "Ryan's First Stripe!")
+![](/img/img_7030.jpg)
 
-**Ryan's First Stripe!**
+**Coach Gaby**
 
-## ![Shea's First Stripe!](/img/first-stripe-05.png "Shea's First Stripe!")
+![](/img/img_7511.jpg)
 
-**Shea's First Stripe!**
+**Emelly**
 
-## ![Juny's First Stripe!](/img/first-stripe-06.png "Juny's First Stripe!")
+___
+# **Promotions**
 
-**Juny's First Stripe!**
+![](/img/dsc06546.jpg)
 
-## ![Liliom's 's 2nd Stripe!](/img/first-stripe-07.png "Liliom's 's 2nd Stripe!")
+**Sophia promoted to Grey and White belt!**
 
-**Liliom's 's 2nd Stripe!**
+![](/img/img_7014.jpg)
 
-## ![Christopher's 2nd Stripe!](/img/first-stripe-08.png "Christopher's 2nd Stripe!")
-
-**Christopher's 2nd Stripe!**
-
-## ![Jenna's Third Stripe!](/img/first-stripe-09.png "Jenna's Third Stripe!")
-
-**Jenna's Third Stripe!**
+**Arianna promoted to Yellow belt!**
