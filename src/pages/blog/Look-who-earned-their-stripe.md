@@ -17,6 +17,8 @@ tags:
 
 - - -
 
+# Stripes
+
 ![](/img/dsc6540.jpg)
 
 **Kaitlyn** 
@@ -33,7 +35,8 @@ tags:
 
 **Emelly**
 
-___
+- - -
+
 # **Promotions**
 
 ![](/img/dsc06546.jpg)
