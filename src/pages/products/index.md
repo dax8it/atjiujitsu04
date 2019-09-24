@@ -178,7 +178,10 @@ pricing:
       price: '810'
     - description: Take any class twice a week
       items:
-        - Flexible schedule
+        - Jiu-Jitsu
+        - Yoga
+        - Muay Thai
+        - Kickboxing
       plan: Two Times A Week
       price: '135'
 ---
