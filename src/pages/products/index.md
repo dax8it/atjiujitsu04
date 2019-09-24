@@ -162,6 +162,21 @@ pricing:
         - Yoga
       plan: 7 days a week - unlimited classes
       price: '155'
+    - description: Take any class twice a week
+      items:
+        - Jiu-Jitsu
+        - Yoga
+        - Muay Thai
+        - Kickboxing
+      plan: Two Times A Week
+      price: '135'
+    - description: Recommended for Beginners
+      items:
+        - Jiu Jitsu
+        - Judo
+        - Muay Thai
+      plan: Three Times A Week
+      price: '145'
     - description: Great for adventurous kids
       items:
         - learn to concentrate
@@ -176,13 +191,5 @@ pricing:
         - $135 Monthly (Compared to $155)
       plan: Pay  In Full (6 Months)
       price: '810'
-    - description: Take any class twice a week
-      items:
-        - Jiu-Jitsu
-        - Yoga
-        - Muay Thai
-        - Kickboxing
-      plan: Two Times A Week
-      price: '135'
 ---
 
