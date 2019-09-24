@@ -35,6 +35,10 @@ We’re proud of our students and how hard they work at achieving their goals. T
 
 **Emelly**
 
+![](/img/img_8367.jpg)
+
+**Melanie**
+
 - - -
 
 # **Promotions**
