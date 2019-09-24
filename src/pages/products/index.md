@@ -160,7 +160,7 @@ pricing:
         - Muay Thai
         - Kickboxing
         - Yoga
-      plan: 7 days a week - unlimited classes
+      plan: Unlimited classes
       price: '155'
     - description: Recommended for Beginners
       items:
