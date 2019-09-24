@@ -178,6 +178,6 @@ pricing:
       price: '810'
     - description: 'Any classes, Twice A Week'
       plan: Two Times A Week
-      price: $135
+      price: '135'
 ---
 
