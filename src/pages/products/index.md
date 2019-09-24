@@ -191,10 +191,5 @@ pricing:
         - $135 Monthly (Compared to $155)
       plan: Pay  In Full (6 Months)
       price: '810'
-    - description: 'Any classes, Twice A Week'
-      items:
-        - To fit your busy schedule
-      plan: Two Times A Week
-      price: '135'
 ---
 
