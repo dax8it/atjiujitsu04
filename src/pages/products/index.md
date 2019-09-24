@@ -165,7 +165,7 @@ pricing:
     - description: Recommended for Beginners
       items:
         - Jiu Jitsu
-        - Judo
+        - Kickboxing
         - Muay Thai
       plan: Three Times A Week
       price: '145'
