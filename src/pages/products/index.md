@@ -173,9 +173,9 @@ pricing:
     - description: Take any class twice a week
       items:
         - Jiu-Jitsu
-        - Yoga
         - Muay Thai
         - Kickboxing
+        - Yoga
       plan: Two Times A Week
       price: '135'
     - description: Great for adventurous kids
