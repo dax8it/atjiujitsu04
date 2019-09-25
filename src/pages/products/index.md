@@ -167,6 +167,7 @@ pricing:
         - Jiu Jitsu
         - Kickboxing
         - Muay Thai
+        - Yoga
       plan: Three Times A Week
       price: '145'
     - description: Take any class twice a week
