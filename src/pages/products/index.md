@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: Our Programs and Prices
-image: /img/girl-scouts-05.png
+image: /img/dsc06748.jpg
 heading: 'ATJIUJITSU MARTIAL ARTS GYM '
 description: 'Martial Arts and Fitness • Jackson Heights • Queens '
 intro:
