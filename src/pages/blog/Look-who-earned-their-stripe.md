@@ -19,25 +19,41 @@ We’re proud of our students and how hard they work at achieving their goals. T
 
 # Stripes
 
+![](/img/img_8398.jpg)
+
+## **Francesca**
+
+![](/img/img_8394.jpg)
+
+## Ginny
+
+![](/img/img_8400.jpg)
+
+## Sophia
+
+![](/img/img_8402.jpg)
+
+## Chase
+
 ![](/img/dsc6540.jpg)
 
-**Kaitlyn**
+## **Kaitlyn**
 
 ![](/img/dsc06557.jpg)
 
-**Mohamet**
+## **Mohamet**
 
 ![](/img/img_7030.jpg)
 
-**Coach Gaby**
+## **Coach Gaby**
 
 ![](/img/img_7511.jpg)
 
-**Emelly**
+## **Emelly**
 
 ![](/img/img_8367.jpg)
 
-**Melanie**
+## **Melanie**
 
 - - -
 
@@ -45,8 +61,8 @@ We’re proud of our students and how hard they work at achieving their goals. T
 
 ![](/img/dsc06546.jpg)
 
-**Sophia promoted to Grey and White belt!**
+## **Sophia promoted to Grey and White belt!**
 
 ![](/img/img_7014.jpg)
 
-**Arianna promoted to Yellow belt!**
+## **Arianna promoted to Yellow belt!**
