@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: September Grappling Industries Tournament
+title: Grappling Industries Tournament
 date: 2019-09-28T13:01:11.968Z
 description: >-
   Thank you to everyone who came out to compete! We're so proud of both children
