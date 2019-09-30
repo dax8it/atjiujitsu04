@@ -12,22 +12,4 @@ featuredimage: /img/dsc07191.jpg
 
 - - -
 
-![](/img/img_110348.jpg)
-
 ![](/img/dsc07191.jpg)
-
-![](/img/dsc07210.jpg)
-
-![](/img/dsc07131.jpg)
-
-![](/img/dsc07105.jpg)
-
-![](/img/dsc07038.jpg)
-
-![](/img/dsc07044.jpg)
-
-![](/img/dsc07074.jpg)
-
-![](/img/grapplingindustriesais07924.jpg)
-
-![](/img/dsc07168.jpg)
