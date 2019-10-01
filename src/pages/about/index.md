@@ -108,7 +108,7 @@ Natalia has always loved caring for children and was studying to become a teache
 
 <br>
 
-![](/img/img_1880.jpeg)
+![](https://res.cloudinary.com/dh1leh33b/image/upload/c_crop,g_face:auto,r_0,w_704/v1569973397/STAFF/IMG_1880_vjzxab.jpg)
 
 # Gabriela Vallebuona
 
