@@ -10,7 +10,7 @@ title: About our team
 
 <br>
 
-![](/img/alvaro.png)
+![](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:000000,c_fill,g_auto,r_max,w_450/v1570035591/STAFF/alvaro_x8uuxj.png)
 
 # Professor Alvaro Tautiva
 
@@ -42,7 +42,7 @@ Having been raised in Jackson Heights his whole life, Professor Alvaro dreamt ab
 
 <br>
 
-![Kim-Lien KendallSmarteryoga Instructor/ Kids Brazilian Jiu-Jitsu and Judo Assistant Instructor](/img/kim_bg.png "Kim-Lien KendallSmarteryoga Instructor/ Kids Brazilian Jiu-Jitsu and Judo Assistant Instructor")
+![Kim-Lien KendallSmarteryoga Instructor/ Kids Brazilian Jiu-Jitsu and Judo Assistant Instructor](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:000000,c_fill,g_auto,r_max,w_450/v1570034552/STAFF/kim_bg_pio3vb.png)
 
 # Kim-Lien Kendall
 
@@ -58,7 +58,7 @@ Kim has a BS in Biochemistry from Florida State University (2005), is certified 
 
 <br>
 
-![](/img/0.png)
+![](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:000000,c_fill,g_auto,r_max,w_450/v1570035473/STAFF/0_vidkvp.png)
 
 # Morgan Chen
 
@@ -74,7 +74,7 @@ Morgan admits to being a diehard **NY Knicks** and **New York Mets** fan, and re
 
 <br>
 
-![](/img/img_8240.jpg)
+![](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:000000,c_fill,g_auto,o_450,r_max,w_450/v1570034552/STAFF/img_8240_eoyl9q.jpg)
 
 # Rocco Giambrone
 
@@ -92,7 +92,7 @@ Born and raised in Astoria, Queens, Rocco is a die-hard New Yorker. A big advoca
 
 <br>
 
-![Natalia VallebuonaProgram Director](/img/natalia.png "Natalia VallebuonaProgram Director")
+![Natalia VallebuonaProgram Director](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:000000,c_fill,g_auto,r_max,w_450/v1570034552/STAFF/natalia_o5xxt6.png)
 
 # Natalia Vallebuona
 
@@ -108,7 +108,7 @@ Natalia has always loved caring for children and was studying to become a teache
 
 <br>
 
-![](https://res.cloudinary.com/dh1leh33b/image/upload/c_fit,q_auto,r_max,w_600/v1569973397/STAFF/IMG_1880_vjzxab.jpg)
+![](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:000000,c_fill,g_auto,r_max,w_450/v1570034552/STAFF/img_1880_udw86t.jpg)
 
 # Gabriela Vallebuona
 
@@ -123,7 +123,7 @@ Gabriela, mainly known as Gaby has been training in Jiu-Jitsu for one year. She 
 <br>
 
 
-![Arianna Calle](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:000000,c_fill,cs_srgb,g_auto,q_auto,r_max,w_600/v1569973398/STAFF/DSC04092._sqvpxe.jpg)
+![Arianna Calle](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:000000,c_fill,cs_srgb,g_auto,q_auto,r_max,w_450/v1569973398/STAFF/DSC04092._sqvpxe.jpg)
 
 
 
@@ -139,7 +139,7 @@ Arianna has been training Jiu-Jitsu for 3 years now and is currently a yellow be
 
 <br>
 
-![Daniela Tautiva M.S.WCo-Owner and Assistant Program Director](/img/daniela.png "Daniela Tautiva M.S.WCo-Owner and Assistant Program Director")
+![Daniela Tautiva M.S.WCo-Owner and Assistant Program Director](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:000000,c_fill,g_auto,r_max,w_450/v1570034551/STAFF/daniela_gl2skd.png "Daniela Tautiva M.S.WCo-Owner and Assistant Program Director")
 
 # Daniela Tautiva M.S.W
 
