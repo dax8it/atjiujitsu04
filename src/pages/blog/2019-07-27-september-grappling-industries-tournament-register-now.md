@@ -37,5 +37,3 @@ featuredimage: /img/dsc07191.jpg
 ![](/img/grapplingindustriesais08015_easy-resize.com.jpg)
 
 ![](/img/dsc07074_easy-resize.com.jpg)
-
-![Grappling Industries Winners](https://res.cloudinary.com/dh1leh33b/image/upload/v1569972010/grappling%20tournament%2009282019/DSC07210_ybx1kp.jpg)
