@@ -124,7 +124,7 @@ Gabriela, mainly known as Gaby has been training in Jiu-Jitsu for one year. She 
 
 
 
-![Arianna Calle](https://res.cloudinary.com/dh1leh33b/image/upload/c_scale,q_auto,w_350/v1569973398/STAFF/DSC04092._sqvpxe.jpg)
+![Arianna Calle](https://res.cloudinary.com/dh1leh33b/image/upload/c_scale,q_auto,w_600/v1569973398/STAFF/DSC04092._sqvpxe.jpg)
 
 
 
