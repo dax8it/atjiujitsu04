@@ -108,7 +108,7 @@ Natalia has always loved caring for children and was studying to become a teache
 
 <br>
 
-![](https://res.cloudinary.com/dh1leh33b/image/upload/c_crop,g_face:auto,r_0,w_704/v1569973397/STAFF/IMG_1880_vjzxab.jpg)
+![](https://res.cloudinary.com/dh1leh33b/image/upload/c_fit,q_auto,r_max,w_600/v1569973397/STAFF/IMG_1880_vjzxab.jpg)
 
 # Gabriela Vallebuona
 
@@ -123,7 +123,7 @@ Gabriela, mainly known as Gaby has been training in Jiu-Jitsu for one year. She 
 <br>
 
 
-![Arianna Calle](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:000000,c_fill,g_auto,q_auto,r_max,w_1000/v1569973398/STAFF/DSC04092._sqvpxe.jpg)
+![Arianna Calle](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:000000,c_fill,cs_srgb,g_auto,q_auto,r_max,w_600/v1569973398/STAFF/DSC04092._sqvpxe.jpg)
 
 
 
