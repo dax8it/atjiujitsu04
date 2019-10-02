@@ -3,7 +3,7 @@ templateKey: index-page
 title: >-
   BRAZILIAN JIUJITSU • JUDO • MUAY THAI • SMARTER YOGA • KICKBOXING • TODDLER
   JIU-JITSU
-image: /img/dsc06723.jpg
+image: /img/dsc06115-1-.jpg
 heading: Martial Arts for Adults and Kids
 subheading: Jackson Heights  •  Queens •  NYC
 mainpitch:
