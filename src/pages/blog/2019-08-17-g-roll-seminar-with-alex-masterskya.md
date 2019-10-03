@@ -5,6 +5,11 @@ date: 2019-08-31T16:00:00.000Z
 description: Learning how to do the G-Roll
 featuredpost: true
 featuredimage: /img/dsc6904.jpg
+tags:
+  - Seminar
+  - bjj
+  - jiujitsu
+  - nyc
 ---
 <center>
 
@@ -25,11 +30,3 @@ featuredimage: /img/dsc6904.jpg
 ![](/img/dsc6900.jpg)
 
 ![](/img/dsc6904.jpg)
-
-- - -
-
-ATJIUJITSUNYC
-
-80-22 Northern Blvd
-Jackson Heights
-Queens, NY 11372
