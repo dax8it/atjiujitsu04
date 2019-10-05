@@ -16,8 +16,6 @@ For more info Contact Us [**Here**](https://www.atjiujitsunyc.com/contact) or by
 
 - - -
 
-
-
 # Adult Classes
 
 - - -
@@ -33,11 +31,11 @@ Check out our adult and kids schedule below.
 
 ## TUESDAY
 
-**_Morning Class_**
+_**Morning Class**_
 
 * **Jiu-Jitsu:** 6:15 to 7:30 am
 
-_**Afternoon Class**_
+**_Afternoon Class_**
 
 * **Muay Thai:** 6:00 to 7:00 pm
 * **Smarter Yoga:** 7:00 to 8:00 pm
@@ -50,11 +48,11 @@ _**Afternoon Class**_
 
 ## THURSDAY
 
-**_Morning Class_**
+_**Morning Class**_
 
 * **Jiu-Jitsu:** 6:15 to 7:30 am
 
-_**Afternoon Class**_
+**_Afternoon Class_**
 
 * **Muay Thai:** 6:00 to 7:00 pm
 * **Jiu-Jitsu:** 7:15 to 8:30 pm
@@ -121,9 +119,7 @@ _**Afternoon Class**_
 * **Kids Jiu-Jitsu (Ages 5 to 9):** 10:15 to 11:00pm
 * **Kids Jiu-Jitsu (Ages 10 to 13):** 11:15 to 12:00pm 	
 
-### SUNDAY
 
-* **Kids BJJ Competition (All Ages):** 12:00 to 1:00pm
 
 <br>
 
