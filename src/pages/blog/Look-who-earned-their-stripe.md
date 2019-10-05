@@ -59,6 +59,10 @@ tags:
 
 # **Promotions**
 
+![](/img/dsc07615.jpg)
+
+## Lila promoted to Grey belt!
+
 ![](/img/dsc06546.jpg)
 
 ## **Sophia promoted to Grey and White belt!**
