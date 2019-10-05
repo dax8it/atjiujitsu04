@@ -43,10 +43,6 @@ tags:
 
 ## **Mohamet**
 
-![](/img/img_7030.jpg)
-
-## **Coach Gaby**
-
 ![](/img/img_7511.jpg)
 
 ## **Emelly**
