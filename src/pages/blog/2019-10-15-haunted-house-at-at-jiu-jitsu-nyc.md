@@ -7,11 +7,11 @@ description: |-
   CALLING ALL WITCHES, GHOSTS AND MONSTERS TOO!
   THEY'RE ALL INVITED AND SO ARE YOU!
 featuredpost: false
-featuredimage: /img/halloween-flyer.jpg
+featuredimage: /img/1571186525_tmp_halloween_flyer.jpg
 ---
 ## \*WEDNESDAY, OCTOBER 31ST\*
 
-## THE FUN BEGINS AT
+## THE FUN BEGINS FROM
 
 ## ﻿4:00 - 7:00 PM
 
@@ -23,7 +23,11 @@ featuredimage: /img/halloween-flyer.jpg
 
 # So come and join us this year... if you're brave enough.
 
+![](/img/1571186525_tmp_halloween_flyer.jpg)
+
 # Check out some photos from our last Haunted House!
+
+![](/img/1571186503_tmp_158w6w5.jpg)
 
 ![](/img/1571186152_tmp_dsc04281_tbtdma.jpg)
 
