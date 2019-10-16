@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Haunted House at AT JIU-JITSU NYC
-date: 2019-10-15T21:19:30.921Z
+date: 2019-10-31T20:00:00.000Z
 description: >-
   YOU'RE INVITED TO A SPOOKY HAUNTED HOUSE! CALLING ALL WITCHES, GHOSTS AND
   MONSTERS TOO!
@@ -16,7 +16,7 @@ tags:
   - spooky
   - jiu jitsu
 ---
-## \*WEDNESDAY, OCTOBER 31ST\*
+## \*THURSDAY, OCTOBER 31ST\*
 
 ## THE FUN BEGINS FROM 4:00 - 7:00PM.
 
