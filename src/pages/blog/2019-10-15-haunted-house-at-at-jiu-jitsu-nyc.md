@@ -9,6 +9,12 @@ description: >-
   THEY'RE ALL INVITED AND SO ARE YOU!
 featuredpost: true
 featuredimage: /img/1571186525_tmp_halloween_flyer.jpg
+tags:
+  - halloween
+  - haunted house
+  - nyc
+  - spooky
+  - jiu jitsu
 ---
 ## \*WEDNESDAY, OCTOBER 31ST\*
 
