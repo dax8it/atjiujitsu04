@@ -2,9 +2,10 @@
 templateKey: blog-post
 title: Haunted House at AT JIU-JITSU NYC
 date: 2019-10-15T21:19:30.921Z
-description: |-
-  YOU'RE INVITED TO A SPOOKY HAUNTED HOUSE!
-  CALLING ALL WITCHES, GHOSTS AND MONSTERS TOO!
+description: >-
+  YOU'RE INVITED TO A SPOOKY HAUNTED HOUSE! CALLING ALL WITCHES, GHOSTS AND
+  MONSTERS TOO!
+
   THEY'RE ALL INVITED AND SO ARE YOU!
 featuredpost: true
 featuredimage: /img/1571186525_tmp_halloween_flyer.jpg
