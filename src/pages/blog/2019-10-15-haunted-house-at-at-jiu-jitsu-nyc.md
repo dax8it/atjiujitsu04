@@ -26,7 +26,7 @@ tags:
 
 ## All ages invited!
 
-# So come and join us this year... if you're brave enough.
+## So come and join us this year... if you're brave enough.
 
 ![](/img/1571186525_tmp_halloween_flyer.jpg)
 
