@@ -21,7 +21,7 @@ featuredimage: /img/halloween-flyer.jpg
 
 ## All ages invited
 
-# And come and join us this year... if you're brave enough.
+# So come and join us this year... if you're brave enough.
 
 # Check out some photos from our last Haunted House!
 
