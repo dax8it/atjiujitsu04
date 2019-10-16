@@ -12,15 +12,13 @@ featuredimage: /img/1571186525_tmp_halloween_flyer.jpg
 ---
 ## \*WEDNESDAY, OCTOBER 31ST\*
 
-## THE FUN BEGINS FROM
-
-## ﻿4:00 - 7:00 PM
+## THE FUN BEGINS FROM 4:00 - 7:00PM.
 
 ## JOIN US, IF YOU DARE...
 
 ## (No classes will be held on this day) 🎃
 
-## All ages invited
+## All ages invited!
 
 # So come and join us this year... if you're brave enough.
 
