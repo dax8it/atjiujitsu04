@@ -6,7 +6,7 @@ description: |-
   YOU'RE INVITED TO A SPOOKY HAUNTED HOUSE!
   CALLING ALL WITCHES, GHOSTS AND MONSTERS TOO!
   THEY'RE ALL INVITED AND SO ARE YOU!
-featuredpost: false
+featuredpost: true
 featuredimage: /img/1571186525_tmp_halloween_flyer.jpg
 ---
 ## \*WEDNESDAY, OCTOBER 31ST\*
