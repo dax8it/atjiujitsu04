@@ -22,8 +22,8 @@ export const IndexPageTemplate = ({
         backgroundImage: `url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
-        backgroundPosition: `bottom`,
-        backgroundAttachment: `fixed`,
+        backgroundPosition: `top`,
+        backgroundAttachment: `scroll`,
       }}
     >
       <div
@@ -37,11 +37,11 @@ export const IndexPageTemplate = ({
         }}
       >
         <h1
-          className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
+          className="has-text-centered has-text-weight-semibold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
             boxShadow:
               'rgb(0, 102, 204) 0.5rem 0px 0px, rgb(0, 102, 204) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(0, 102, 204)',
+            backgroundColor: 'rgb(0, 102, 204, 0.5)',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
@@ -50,11 +50,11 @@ export const IndexPageTemplate = ({
           {title}
         </h1>
         <h3
-          className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
+          className="has-text-centered has-text-weight-normal is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
             boxShadow:
               'rgb(0, 102, 204) 0.5rem 0px 0px, rgb(0, 102, 204) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(0, 102, 204)',
+            backgroundColor: 'rgb(0, 102, 204, 0.5)',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
@@ -85,6 +85,7 @@ export const IndexPageTemplate = ({
                 </div>
                 <div className="columns">
                   <div className="column is-12">
+                    <hr></hr>
                     <h3 className="has-text-weight-semibold is-size-2">
                       {heading}
                     </h3>
@@ -94,17 +95,21 @@ export const IndexPageTemplate = ({
                   </div>
 
                 </div>
-                <Features gridItems={intro.blurbs} />
+                  {/* <Features gridItems={intro.blurbs} /> */ }                  
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/products">
-                      See all programs
+                      Our Programs
+                    </Link>
+                    <Link className="btn" to="/products#prices">
+                      Prices
                     </Link>
                   </div>
                 </div>
                 <div className="column is-12">
+                <hr></hr>
                   <h3 className="has-text-weight-semibold is-size-2">
-                    Latest stories
+                    Latest News
                   </h3>
                   <BlogRoll />
                   <div className="column is-12 has-text-centered">
@@ -185,7 +190,7 @@ export const pageQuery = graphql`
           blurbs {
             image {
               childImageSharp {
-                fluid(maxWidth: 240, quality: 64) {
+                fluid(maxWidth: 320, quality: 64) {
                   ...GatsbyImageSharpFluid
                 }
               }

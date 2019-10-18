@@ -28,10 +28,10 @@ export const ProductPageTemplate = ({
       }}
     >
       <h2
-        className="has-text-weight-bold is-size-1"
+        className="has-text-centered has-text-weight-semibold is-size-2"
         style={{
-          boxShadow: '0.5rem 0 0 #1c5996, -0.5rem 0 0 #1c5996',
-          backgroundColor: '#1c5996',
+          boxShadow: '0.5rem 0 0 rgb(0, 102, 204, 0.5), -0.5rem 0 0 rgb(0, 102, 204, 0.5)',
+          backgroundColor: 'rgb(0, 102, 204, 0.5)',
           color: 'white',
           padding: '1rem',
         }}
@@ -49,7 +49,7 @@ export const ProductPageTemplate = ({
             </div>
           </div>
           <div className="columns">
-            <div className="column is-10 is-offset-1">
+            <div className="column is-10 is-offset-3">
               <Features gridItems={intro.blurbs} />
               <div className="columns">
                 <div className="column is-7">
@@ -80,7 +80,7 @@ export const ProductPageTemplate = ({
                   </div>
                 </div>
               </div>
-              <Testimonials testimonials={testimonials} />
+{/*              <Testimonials testimonials={testimonials} /> */}
               <div
                 className="full-width-image-container"
                 style={{
@@ -91,11 +91,13 @@ export const ProductPageTemplate = ({
                   })`,
                 }}
               />
-              <h2 className="has-text-weight-semibold is-size-2">
+              <div className="container is-fullhd" >
+              <h2 id="prices" className="has-text-weight-semibold is-size-2 level">
                 {pricing.heading}
               </h2>
               <p className="is-size-5">{pricing.description}</p>
               <Pricing data={pricing.plans} />
+              </div>
             </div>
           </div>
         </div>

@@ -16,10 +16,10 @@ export const SchedulePageTemplate = ({ title, content, contentComponent }) => {
     }}
   >
     <h1
-      className="has-text-weight-bold is-size-1"
+      className="has-text-centered has-text-weight-semibold is-size-2"
       style={{
-        boxShadow: '0.5rem 0 0 #1c5996, -0.5rem 0 0 #1c5996',
-        backgroundColor: '#1c5996',
+        boxShadow: '0.5rem 0 0 rgb(0, 102, 204, 0.5), -0.5rem 0 0 rgb(0, 102, 204, 0.5)',
+        backgroundColor: 'rgb(0, 102, 204, 0.5)',
         color: 'white',
         padding: '1rem',
       }}
