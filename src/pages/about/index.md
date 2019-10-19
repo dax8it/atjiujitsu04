@@ -46,7 +46,7 @@ Having been raised in Jackson Heights his whole life, Professor Alvaro dreamt ab
 
 # Kim-Lien Kendall
 
-## Smarteryoga Instructor/ Kids Brazilian Jiu-Jitsu and Judo Assistant Instructor
+## Smarter Yoga Instructor
 
 Kim has been teaching yoga classes, one on one sessions, workshops, seminars, retreats and teacher trainings since 2005. She has studied several styles of yoga under many well-known teachers and combined her background in exercise physiology and kinesiology to co-create Smarter Yoga (TM), an individualized movement practice rooted in exercise science without the dogma of traditional yoga practice. She is the CEO of Smarter Bodies and the co-author of "Exposing Yoga Myths".
 
@@ -122,10 +122,7 @@ Gabriela, mainly known as Gaby has been training in Jiu-Jitsu for one year. She 
 
 <br>
 
-
 ![Arianna Calle](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:000000,c_fill,cs_srgb,g_auto,q_auto,r_max,w_450/v1569973398/STAFF/DSC04092._sqvpxe.jpg)
-
-
 
 # Arianna Calle
 
