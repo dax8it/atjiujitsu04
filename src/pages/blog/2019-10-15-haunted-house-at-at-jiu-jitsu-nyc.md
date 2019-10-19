@@ -8,7 +8,7 @@ description: >-
 
   THEY'RE ALL INVITED AND SO ARE YOU!
 featuredpost: true
-featuredimage: /img/1571186525_tmp_halloween_flyer.jpg
+featuredimage: /img/1571497107_tmp_haunted_house_poster.jpg
 tags:
   - halloween
   - haunted house
@@ -28,7 +28,7 @@ tags:
 
 ## So come and join us this year... if you're brave enough.
 
-![](/img/1571186525_tmp_halloween_flyer.jpg)
+![](/img/1571497107_tmp_haunted_house_poster.jpg)
 
 # Check out some photos from our last Haunted House!
 
