@@ -66,7 +66,7 @@ const Footer = class extends React.Component {
                   </ul>
                 </section>
               </div>
-              <div className="column is-4 is-offset-8">
+              <div className="column is-4">
               
                 <section className="container has-background-black has-text-white-ter">
                 <div className="column is-size-4">LOCATION</div> 
