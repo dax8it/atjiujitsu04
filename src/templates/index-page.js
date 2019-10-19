@@ -97,14 +97,16 @@ export const IndexPageTemplate = ({
                 </div>
                   {/* <Features gridItems={intro.blurbs} /> */ }                  
                 <div className="columns">
-                  <div className="column is-12 has-text-centered">
+                  <div className="column is-half-desktop has-text-centered">
                     <Link className="btn" to="/products">
                       Our Programs
                     </Link>
+                    </div>
+                    <div className="column is-half-desktop has-text-centered">
                     <Link className="btn" to="/products#prices">
-                      Prices
+                    Monthly Fees
                     </Link>
-                  </div>
+                    </div>
                 </div>
                 <div className="column is-12">
                 <hr></hr>
