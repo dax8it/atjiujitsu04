@@ -15,28 +15,7 @@ const Footer = class extends React.Component {
 
         <div className="content has-text-centered has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">
-            <div className="columns">
-{/*              <div className="column is-6">
-                <section className="container has-background-black has-text-white-ter">
-                <p className="column is-size-4">LOCATION</p> 
-                <p className="container has-background-black has-text-white-ter">
-                <a
-
-                        href="https://g.page/at-jiu-jitsu-nyc?share"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                      80-22 Northern Blvd. 
-                            <br />
-                            Jackson Heights NY 11372
-                            <br />
-                            U.S.A
-                            </a></p>                
-
-                </section>
-              </div>
-
-*/}               
+            <div className="columns">            
               <div className="column is-4 is-offset-1">
                 <section>
                   <ul className="menu-list">
@@ -66,63 +45,14 @@ const Footer = class extends React.Component {
                   </ul>
                 </section>
               </div>
-              <div className="column is-4">
-              
-                <section className="container has-background-black has-text-white-ter">
-                <div className="column is-size-4">LOCATION</div> 
-                <div className="has-background-black has-text-white-ter">
-                <a
-
-                        href="https://g.page/at-jiu-jitsu-nyc?share"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                      80-22 Northern Blvd. 
-                            <br />
-                            Jackson Heights NY 11372
-                            <br />
-                            U.S.A
-                            </a>                
-                            </div>
-                </section>
-              
-                <div className="column is-size-4">CONTACT US</div>
-             Email:
-               <a href="mailto:atjiujitsunyc@gmail.com"> atjiujitsunyc@gmail.com</a><br />
-              Call Us <b>(917)-745-1772</b>
-
-              <div className="social">
-                <a title="facebook" href="https://www.facebook.com/ATjiujitsuNYC/">
-                  <img
-                    src={facebook}
-                    alt="Facebook"
-                    style={{ width: '1em', height: '1em' }}
-                  />
-                </a>
-                <a title="instagram" href="https://instagram.com/jiujitsunyc">
-                  <img
-                    src={instagram}
-                    alt="Instagram"
-                    style={{ width: '1em', height: '1em' }}
-                  />
-                </a>
-                <a title="youtube" href="https://www.youtube.com/channel/UCdi6CZkOmv_5dNZUhlVOkgw">
-                  <img
-                    src={youtube}
-                    alt="youtube"
-                    style={{ width: '1em', height: '1em' }}
-                  />
-                </a>
-                </div>
-              </div>
             </div>
           </div>
         </div>
         <div className="content has-text-centered">
-          <img
+          AT JIUJITSU School 2019. All Rights Reserved <br /> <img
             src={logo}
-            alt="Kaldi"
-            style={{ width: '14em', height: '5em' }}
+            alt="AtjiujitsuNYC"
+            style={{ width: '10em', height: '3em' }}
           />
         </div>
       </footer>
