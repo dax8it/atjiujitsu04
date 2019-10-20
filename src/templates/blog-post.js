@@ -22,10 +22,10 @@ export const BlogPostTemplate = ({
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
-            <h1 className="has-text-centered has-text-weight-semibold is-size-2">
+          <h1 className="title has-text-weight-semibold is-size-3-mobile is-size-2-tablet is-size-1-widescreen">
               {title}
             </h1>
-            <p>{description}</p>
+            <p className="subtitle has-text-weight-normal is-size-5-mobile is-size-5-tablet is-size-4-widescreen">{description}</p>
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>

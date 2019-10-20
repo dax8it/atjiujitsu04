@@ -43,20 +43,20 @@ export const ProductPageTemplate = ({
       <div className="container">
         <div className="section">
           <div className="columns">
-            <div className="column is-7 is-offset-1">
-              <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
+            <div className="column is-12">
+              <h3 className="title has-text-weight-semibold is-size-3-mobile is-size-2-tablet is-size-1-widescreen box notification">{heading}</h3>
               <p>{description}</p>
             </div>
           </div>
           <div className="columns">
-            <div className="column is-10 is-offset-3">
+            <div className="column is-12">
               <Features gridItems={intro.blurbs} />
               <div className="columns">
-                <div className="column is-7">
-                  <h3 className="has-text-weight-semibold is-size-3">
+                <div className="column is-12">
+                  <h3 className="subtitle has-text-weight-semibold is-size-3-mobile is-size-2-tablet is-size-2-widescreen box notification">
                     {main.heading}
                   </h3>
-                  <p>{main.description}</p>
+                  <p className="has-text-weight-normal is-size-4">{main.description}</p>
                 </div>
               </div>
               <div className="tile is-ancestor">
@@ -91,11 +91,11 @@ export const ProductPageTemplate = ({
                   })`,
                 }}
               />
-              <div className="container is-fullhd" >
-              <h2 id="prices" className="has-text-weight-semibold is-size-2 level">
+              <div className="container is-fullhd box" >
+              <h2 id="prices" className="has-text-weight-semibold is-size-2 level  box notification">
                 {pricing.heading}
               </h2>
-              <p className="is-size-5">{pricing.description}</p>
+              <p className="is-size-4">{pricing.description}</p>
               <Pricing data={pricing.plans} />
               </div>
             </div>
