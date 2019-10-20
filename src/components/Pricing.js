@@ -6,19 +6,19 @@ const Pricing = ({ data }) => (
     {data.map(price => (
 
        <div key={price.plan} className="column is-mobile">
-          <div className="column is-three-fifths is-offset-one-fifth">              
+          <div className="column is-12">              
             <section className="section-padding">
 
               <div class="tile is-ancestor">
-                <div class="tile is-three-fifths is-offset-one-fifth">
+                <div class="tile is-size-3-mobile is-size-2-tablet is-size-2-widescreen">
                   <div class="tile is-child box notification">
                     <h4 className="has-text-centered has-text-weight-bold is-size-2">
                       {price.plan}
                     </h4>
-                    <h2 className="is-size-1 has-text-weight-bold has-text-primary has-text-centered">
+                    <h2 className="is-size-3-mobile is-size-1-tablet is-size-1-widescreen has-text-weight-bold has-text-primary has-text-centered">
                       ${price.price}
                     </h2>
-                    <p className="has-text-centered has-text-weight-bold is-size-3">{price.description}</p>
+                    <p className="has-text-centered has-text-weight-bold is-size-4-mobile is-size-4-tablet is-size-3-widescreen">{price.description}</p>
                       <ul>
                         {price.items.map(item => (
                           <li key={item} className="is-size-4 has-text-weight-semibold">

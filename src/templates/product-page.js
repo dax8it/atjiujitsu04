@@ -91,7 +91,7 @@ export const ProductPageTemplate = ({
                   })`,
                 }}
               />
-              <div className="container is-fullhd box" >
+              <div className="container is-12 box" >
               <h2 id="prices" className="has-text-weight-semibold is-size-2 level  box notification">
                 {pricing.heading}
               </h2>
