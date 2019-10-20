@@ -74,7 +74,7 @@ export const IndexPageTemplate = ({
               <div className="content">
                 <div className="content  is-child box notification">
                   <div className="tile">
-                    <h1 className="title has-text-weight-semibold is-size-3-mobile is-size-2-tablet is-size-1-widescreen">{mainpitch.title}</h1>
+                    <h1 className="title has-text-weight-semibold is-size-4-mobile is-size-2-tablet is-size-1-widescreen">{mainpitch.title}</h1>
                   </div>
                   <div className="tile">
                     <h3 className="subtitle has-text-weight-normal is-size-5-mobile is-size-5-tablet is-size-4-widescreen">{mainpitch.description}</h3>

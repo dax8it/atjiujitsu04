@@ -44,7 +44,7 @@ export const ProductPageTemplate = ({
         <div className="section">
           <div className="columns">
             <div className="column is-12">
-              <h3 className="title has-text-weight-semibold is-size-3-mobile is-size-2-tablet is-size-1-widescreen box notification">{heading}</h3>
+            <h1 className="title has-text-weight-semibold is-size-4-mobile is-size-2-tablet is-size-1-widescreen">{heading}</h1>
               <p>{description}</p>
             </div>
           </div>
@@ -53,10 +53,10 @@ export const ProductPageTemplate = ({
               <Features gridItems={intro.blurbs} />
               <div className="columns">
                 <div className="column is-12">
-                  <h3 className="subtitle has-text-weight-semibold is-size-3-mobile is-size-2-tablet is-size-2-widescreen box notification">
+                  <h3 className="subtitle has-text-weight-semibold is-size-4-mobile is-size-2-tablet is-size-2-widescreen box notification">
                     {main.heading}
                   </h3>
-                  <p className="has-text-weight-normal is-size-4">{main.description}</p>
+                  <p className="is-size-5-mobile is-size-4-tablet is-size-4-widescreen has-text-weight-regular">{main.description}</p>
                 </div>
               </div>
               <div className="tile is-ancestor">
@@ -91,11 +91,11 @@ export const ProductPageTemplate = ({
                   })`,
                 }}
               />
-              <div className="container is-12 box" >
+              <div className="container is-12">
               <h2 id="prices" className="has-text-weight-semibold is-size-3-mobile is-size-2-tablet is-size-2-widescreen level  box notification">
                 {pricing.heading}
               </h2>
-              <p className="is-size-4">{pricing.description}</p>
+              <p className="is-size-5-mobile is-size-4-tablet is-size-4-widescreen has-text-weight-regular">{pricing.description}</p>
               <Pricing data={pricing.plans} />
               </div>
             </div>

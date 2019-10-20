@@ -32,7 +32,7 @@ export const SchedulePageTemplate = ({ title, content, contentComponent }) => {
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <div className="section">
-            <h1 className="title has-text-weight-semibold is-size-3-mobile is-size-2-tablet is-size-1-widescreen box notification">
+            <h1 className="title has-text-weight-semibold is-size-4-mobile is-size-2-tablet is-size-1-widescreen">
                 {title}
               </h1>
               <PageContent className="content" content={content} />
