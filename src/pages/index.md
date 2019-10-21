@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: EVERYONE CAN DO JIUJITSU
+title: JIUJITSU IS FOR EVERYONE
 image: /img/bjjdsc07620lo.jpg
 heading: Martial Arts for Adults and Kids
 subheading: >-
