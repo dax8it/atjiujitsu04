@@ -1,10 +1,10 @@
 ---
 templateKey: index-page
-title: >-
+title: EVERYONE CAN DO JIUJITSU
+image: /img/bjjdsc07620lo.jpg
+heading: >-
   BRAZILIAN JIUJITSU • JUDO • MUAY THAI • SMARTER YOGA • KICKBOXING • TODDLER
   JIU-JITSU
-image: /img/dsc07620.jpg
-heading: Martial Arts for Adults and Kids
 subheading: Jackson Heights  •  Queens •  NYC
 mainpitch:
   title: Welcome to ATJIUJITSUNYC
