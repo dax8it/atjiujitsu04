@@ -110,7 +110,7 @@ intro:
 
 
         • Classes begin at ages 3-4
-  heading: What we offer
+  heading: What We Offer
   description: >-
     Through classes focusing on mixed martial arts such as Brazilian Jiu-Jitsu,
     Judo, Muay Thai, Yoga, and Kickboxing. The goal of AT Jiu-Jitsu NYC is to
@@ -118,7 +118,7 @@ intro:
     a better sense of themselves in both mind and body, all while learning about
     the sport and self-defense aspects of these martial arts.
 main:
-  heading: The best Martial Arts Gym serving the Jackson Heights & Queens Community
+  heading: The Best Martial Arts Gym serving the Jackson Heights & Queens Community
   description: >
     We believe in letting out students develop and grow with us. Our school is
     young, and it's a pleasure to have so many of you join us on our journey.
@@ -148,7 +148,7 @@ testimonials:
       to come.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Monthly Subscriptions
   description: >-
     We make it easy to attend our classes. Choose one of our monthly
     subscription plans to get the most bang for your buck. You won't see this
@@ -160,7 +160,7 @@ pricing:
         - Muay Thai
         - Kickboxing
         - Yoga
-      plan: Unlimited classes
+      plan: Unlimited Classes
       price: '155'
     - description: Recommended for Beginners
       items:
@@ -170,7 +170,7 @@ pricing:
         - Yoga
       plan: Three Times A Week
       price: '145'
-    - description: Take any class twice a week
+    - description: Any class 2X a week
       items:
         - Jiu-Jitsu
         - Muay Thai
