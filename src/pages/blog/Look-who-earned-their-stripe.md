@@ -19,6 +19,10 @@ tags:
 
 # Stripes
 
+![](/img/img_9069_1_600x450.jpg)
+
+## Callie
+
 ![](/img/img_8398.jpg)
 
 ## **Francesca**
@@ -43,17 +47,13 @@ tags:
 
 ## **Mohamet**
 
-![](/img/img_7511.jpg)
-
-## **Emelly**
-
-![](/img/img_8367.jpg)
-
-## **Melanie**
-
 - - -
 
 # **Promotions**
+
+![](/img/img_9076_600x450.jpg)
+
+## Nicole promoted to Grey and White belt!
 
 ![](/img/dsc07615.jpg)
 
