@@ -29,10 +29,6 @@ tags:
 
 ![](/img/img_8394.jpg)
 
-## Ginny
-
-![](/img/img_8400.jpg)
-
 ## Sophia
 
 ![](/img/img_8402.jpg)
@@ -50,6 +46,11 @@ tags:
 - - -
 
 # **Promotions**
+
+![](/img/1571960458_tmp_img_9237.jpg)
+
+
+## Ginny promoted to Grey and White belt!
 
 ![](/img/img_9076_600x450.jpg)
 
