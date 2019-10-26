@@ -45,7 +45,7 @@ tags:
 
 ![](/img/img_9396.jpg)
 
-## Mohamet
+## Mohamet promoted to Grey and White belt!
 
 ![](/img/1571960458_tmp_img_9237.jpg)
 
