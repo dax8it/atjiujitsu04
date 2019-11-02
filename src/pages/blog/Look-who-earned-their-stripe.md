@@ -19,6 +19,14 @@ tags:
 
 # Stripes
 
+![](/img/1572710623_tmp_dsc08449.jpg)
+
+## Tommy
+
+![](/img/1572710466_tmp_dsc08445.jpg)
+
+## David
+
 ![](/img/img_9069_1_600x450.jpg)
 
 ## Callie
@@ -31,17 +39,13 @@ tags:
 
 ## Sophia
 
-![](/img/img_8402.jpg)
-
-## Chase
-
-![](/img/dsc6540.jpg)
-
-## **Kaitlyn**
-
 - - -
 
 # **Promotions**
+
+![](/img/1572710699_tmp_dsc08453.jpg)
+
+## Yvonne promoted to Blue belt!
 
 ![](/img/img_9396.jpg)
 
