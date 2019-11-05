@@ -15,17 +15,7 @@ tags:
   - jiu jitsu
   - bjj
 ---
-## \*THURSDAY, OCTOBER 31ST\*
-
-## THE FUN BEGINS FROM 4:00 - 7:00PM.
-
-## JOIN US, IF YOU DARE...
-
-## (No classes will be held on this day) 🎃
-
-## All ages invited!
-
-## So come and join us this year... if you're brave enough.
+## Thank you to everyone for your help and support during the Haunted house. We hope you all had a scary good time!!!
 
 ![](/img/1572987289_tmp_dsc08935.jpg)
 
