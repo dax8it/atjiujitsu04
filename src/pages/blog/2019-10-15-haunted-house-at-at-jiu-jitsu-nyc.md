@@ -6,7 +6,7 @@ description: >
   Huge success at our annual Haunted House. We hope it wasn't a trick... only a
   treat!! 
 featuredpost: false
-featuredimage: /img/1572987421_tmp_dsc08886.jpg
+featuredimage: /img/1572987289_tmp_dsc08935.jpg
 tags:
   - halloween
   - haunted house
