@@ -2,19 +2,18 @@
 templateKey: blog-post
 title: Haunted House at AT JIU-JITSU NYC
 date: 2019-10-31T20:00:00.000Z
-description: >-
-  YOU'RE INVITED TO A SPOOKY HAUNTED HOUSE! CALLING ALL WITCHES, GHOSTS AND
-  MONSTERS TOO!
-
-  THEY'RE ALL INVITED AND SO ARE YOU!
-featuredpost: true
-featuredimage: /img/1571497107_tmp_haunted_house_poster.jpg
+description: >
+  Huge success at our annual Haunted House. We hope it wasn't a trick... only a
+  treat!! 
+featuredpost: false
+featuredimage: /img/1572987421_tmp_dsc08886.jpg
 tags:
   - halloween
   - haunted house
   - nyc
   - spooky
   - jiu jitsu
+  - bjj
 ---
 ## \*THURSDAY, OCTOBER 31ST\*
 
@@ -28,20 +27,18 @@ tags:
 
 ## So come and join us this year... if you're brave enough.
 
-![](/img/1571497107_tmp_haunted_house_poster.jpg)
+![](/img/1572987289_tmp_dsc08935.jpg)
 
-# Check out some photos from our last Haunted House!
+![](/img/1572987336_tmp_dsc08815.jpg)
 
-![](/img/1571187116_tmp_1571186503_tmp_158w6w5.jpg)
+![](/img/1572987363_tmp_dsc08816.jpg)
 
-![](/img/1571186152_tmp_dsc04281_tbtdma.jpg)
+![](/img/1572987407_tmp_dsc08846.jpg)
 
-![](/img/1571186105_tmp_dsc04224_xcrgwk.jpg)
+![](/img/1572987387_tmp_dsc08832.jpg)
 
-![](/img/1571186003_tmp_dsc04220_k2oetj.jpg)
+![](/img/1572987439_tmp_dsc08892.jpg)
 
-![](/img/1571185978_tmp_dsc04238_pc6sve.jpg)
+![](/img/1572987474_tmp_dsc08899.jpg)
 
-![](/img/1571186074_tmp_dsc04235_ygdo36.jpg)
-
-![](/img/1571186136_tmp_dsc04124_ummrjs.jpg)
+![](/img/1572987488_tmp_dsc08930.jpg)
