@@ -10,7 +10,7 @@ title: About our team
 
 <br>
 
-![](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:000000,c_fill,g_auto,r_max,w_450/v1570035591/STAFF/alvaro_x8uuxj.png)
+![](/img/img_9533.png)
 
 # Professor Alvaro Tautiva
 
@@ -94,7 +94,7 @@ Born and raised in Astoria, Queens, Rocco is a die-hard New Yorker. A big advoca
 
 ![Natalia VallebuonaProgram Director](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:000000,c_fill,g_auto,r_max,w_450/v1570034552/STAFF/natalia_o5xxt6.png)
 
-# Natalia 
+# Natalia
 
 ## Program Director
 
@@ -110,7 +110,7 @@ Natalia has always loved caring for children and was studying to become a teache
 
 ![](https://res.cloudinary.com/dh1leh33b/image/upload/ar_1:1,bo_5px_solid_rgb:000000,c_fill,g_auto,r_max,w_450/v1570034552/STAFF/img_1880_udw86t.jpg)
 
-# Gabriela 
+# Gabriela
 
 ## Coach and Assistant Program Director
 
