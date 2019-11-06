@@ -19,6 +19,10 @@ tags:
 
 # Stripes
 
+![](/img/1572998453_tmp_0.jpg)
+
+## Aidan
+
 ![](/img/1572710623_tmp_dsc08449.jpg)
 
 ## Tommy
@@ -34,10 +38,6 @@ tags:
 ![](/img/img_8398.jpg)
 
 ## **Francesca**
-
-![](/img/img_8400.jpg)
-
-## Sophia
 
 - - -
 
