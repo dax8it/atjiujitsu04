@@ -43,6 +43,10 @@ tags:
 
 # **Promotions**
 
+![](/img/1574114237_tmp_dsc09461.jpg)
+
+## Angelina promoted to Grey and White belt!
+
 ![](/img/1572710699_tmp_dsc08453.jpg)
 
 ## Yvonne promoted to Blue belt!
