@@ -2,12 +2,11 @@
 templateKey: blog-post
 title: 'Grappling Industries Tournament, February'
 date: 2019-02-23T14:00:00.000Z
-description: >-
+description: 
   Thank you to our students, Roberto and Elek for representing our school at the
   Grappling Industries Tournament. 
 featuredpost: false
-featuredimage: >-
-  /img/no-kids-or-adult-works-harder-than-this-young-man.-super-proud-of-him-for-wanting-to-show-off-his-skills-_grapplingindustries-last-weekend.-.jpg
+featuredimage: /img/no-kids-or-adult-works-harder-than-this-young-man.-super-proud-of-him-for-wanting-to-show-off-his-skills-_grapplingindustries-last-weekend.-.jpg
 tags:
   - Grappling Industries
   - Tournament

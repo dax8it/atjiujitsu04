@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Haunted House at AT JIU-JITSU NYC
 date: 2019-10-31T20:00:00.000Z
-description: >
+description: 
   Huge success at our annual Haunted House. We hope it wasn't a trick... only a
   treat!! 
 featuredpost: true

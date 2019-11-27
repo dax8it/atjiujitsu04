@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: smarter YOGA
 date: 2019-07-13T13:54:25.769Z
-description: >-
+description: 
   Instructor Kim discusses the benefits of smarter YOGA to improve your
   jiu-jitsu ability.
 featuredpost: false

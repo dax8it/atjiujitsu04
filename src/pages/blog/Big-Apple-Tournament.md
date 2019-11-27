@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Big Apple Tournament
 date: 2019-05-19T14:04:10.000Z
-description: >-
+description: 
   Great tournament results for our kids. Congrats to all the kids and adults who
   participated.
 featuredpost: false

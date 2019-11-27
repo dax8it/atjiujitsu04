@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Stripes and Belts Promotions
 date: 2019-08-01T14:04:10.000Z
-description: >-
+description: 
   Here are some of our students, who with hard work and determination have
   earned their stripe or new belt! 
 featuredpost: false
