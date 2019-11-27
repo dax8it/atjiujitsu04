@@ -2,15 +2,11 @@
 templateKey: blog-post
 title: 'FINDING THE MOTIVATION TO TRAIN '
 date: 2019-07-15T04:00:00.000Z
-description: 
+description: >-
   Life, Jiu-Jitsu and the Struggle. Professor Alvaro explains finding the
   motivation to train and improve. 
 featuredpost: false
-featuredimage: /img/the-struggle.jpg
-tags:
-  - Film
-  - bjj
-  - inspiration
+featuredimage: /img/0.jpg
 ---
 
 

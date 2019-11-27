@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: JIUJITSU IS FOR EVERYONE
-image: /img/homepagea2.jpg
+image: /img/bjjdsc07620lo.jpg
 heading: Martial Arts for Adults and Kids
 subheading: >-
   BRAZILIAN JIUJITSU • JUDO • MUAY THAI • SMARTER YOGA • KICKBOXING • TODDLER

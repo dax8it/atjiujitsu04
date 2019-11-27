@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: Haunted House at AT JIU-JITSU NYC
 date: 2019-10-31T20:00:00.000Z
-description: 
+description: >-
   Huge success at our annual Haunted House. We hope it wasn't a trick... only a
-  treat!! 
+  treat!!
 featuredpost: true
 featuredimage: /img/1572987289_tmp_dsc08935.jpg
 tags:
@@ -13,7 +13,6 @@ tags:
   - nyc
   - spooky
   - jiu jitsu
-  - bjj
 ---
 ## Thank you to everyone for your help and support during the Haunted house. We hope you all had a scary good time!!!
 

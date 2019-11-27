@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Stripes and Belts Promotions
 date: 2019-08-01T14:04:10.000Z
-description: 
+description: >-
   Here are some of our students, who with hard work and determination have
   earned their stripe or new belt! 
 featuredpost: false
@@ -19,49 +19,41 @@ tags:
 
 # Stripes
 
-![](/img/1572998453_tmp_0.jpg)
-
-## Aidan
-
-![](/img/1572710623_tmp_dsc08449.jpg)
-
-## Tommy
-
-![](/img/1572710466_tmp_dsc08445.jpg)
-
-## David
-
-![](/img/img_9069_1_600x450.jpg)
-
-## Callie
-
 ![](/img/img_8398.jpg)
 
 ## **Francesca**
 
+![](/img/img_8394.jpg)
+
+## Ginny
+
+![](/img/img_8400.jpg)
+
+## Sophia
+
+![](/img/img_8402.jpg)
+
+## Chase
+
+![](/img/dsc6540.jpg)
+
+## **Kaitlyn**
+
+![](/img/dsc06557.jpg)
+
+## **Mohamet**
+
+![](/img/img_7511.jpg)
+
+## **Emelly**
+
+![](/img/img_8367.jpg)
+
+## **Melanie**
+
 - - -
 
 # **Promotions**
-
-![](/img/1574114237_tmp_dsc09461.jpg)
-
-## Angelina promoted to Grey and White belt!
-
-![](/img/1572710699_tmp_dsc08453.jpg)
-
-## Yvonne promoted to Blue belt!
-
-![](/img/img_9396.jpg)
-
-## Mohamet promoted to Grey and White belt!
-
-![](/img/1571960458_tmp_img_9237.jpg)
-
-## Ginny promoted to Grey and White belt!
-
-![](/img/img_9076_600x450.jpg)
-
-## Nicole promoted to Grey and White belt!
 
 ![](/img/dsc07615.jpg)
 
