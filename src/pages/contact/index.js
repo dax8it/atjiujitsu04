@@ -2,8 +2,7 @@ import React from 'react'
 import { navigate } from 'gatsby-link'
 import Layout from '../../components/Layout'
 
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
-import { faEnvelope, faPhone, faHome } from "@fortawesome/free-solid-svg-icons"
+
 
 function encode(data) {
   return Object.keys(data)

@@ -1,7 +1,4 @@
 import React from 'react'
-import { Link } from 'gatsby'
-
-import logo from '../img/logo.svg'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import youtube from '../img/social/YouTube_dark_icon_.svg'
