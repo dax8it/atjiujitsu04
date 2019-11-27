@@ -5,7 +5,7 @@ date: 2019-10-31T20:00:00.000Z
 description: >
   Huge success at our annual Haunted House. We hope it wasn't a trick... only a
   treat!! 
-featuredpost: false
+featuredpost: true
 featuredimage: /img/1572987289_tmp_dsc08935.jpg
 tags:
   - halloween
