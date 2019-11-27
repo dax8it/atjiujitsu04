@@ -184,9 +184,14 @@ export const pageQuery = graphql`
         image {
           childImageSharp {
             fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
+              src
+              srcSet
+              aspectRatio
+              sizes
+              base64
             }
           }
+          publicURL
         }
         heading
         subheading
@@ -200,7 +205,11 @@ export const pageQuery = graphql`
             image {
               childImageSharp {
                 fluid(maxWidth: 320, quality: 64) {
-                  ...GatsbyImageSharpFluid
+                  src
+                  srcSet
+                  aspectRatio
+                  sizes
+                  base64
                 }
               }
             }
