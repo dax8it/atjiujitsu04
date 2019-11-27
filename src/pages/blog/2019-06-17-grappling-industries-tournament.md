@@ -8,6 +8,9 @@ description: >-
 featuredpost: false
 featuredimage: >-
   /img/no-kids-or-adult-works-harder-than-this-young-man.-super-proud-of-him-for-wanting-to-show-off-his-skills-_grapplingindustries-last-weekend.-.jpg
+tags:
+  - Grappling Industries
+  - Tournament
 ---
 ![](/img/no-kids-or-adult-works-harder-than-this-young-man.-super-proud-of-him-for-wanting-to-show-off-his-skills-_grapplingindustries-last-weekend.-.jpg "Elek ")
 
