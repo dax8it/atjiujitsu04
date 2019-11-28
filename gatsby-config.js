@@ -7,28 +7,13 @@ module.exports = {
       'Martial Arts School: JIU JITSU - MUAY THAI - KICKBOXING - MMA - YOGA - FITNESS. Adult and children classes serving thel Jackson Heights and Queens community.',
   },
   plugins: [
-
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
     {
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
-
-
-          {
-            resolve: "gatsby-remark-embed-video",
-            options: {
-              width: 800,
-              ratio: 1.77, // Optional: Defaults to 16/9 = 1.77
-              height: 400, // Optional: Overrides optional.ratio
-              related: false, //Optional: Will remove related videos from the end of an embedded YouTube video.
-              noIframeBorder: true //Optional: Disable insertion of <style> border: 0
-            }
-          },
-
-          "gatsby-remark-responsive-iframe",
-
+          `gatsby-plugin-netlify-cms-paths`,
           {
             resolve: 'gatsby-remark-relative-images',
             options: {
@@ -45,6 +30,27 @@ module.exports = {
             },
           },
           {
+            resolve: "gatsby-remark-normalize-paths",
+            options: {
+                pathFields: ["image", "featuredimage"],
+            },
+        },
+          
+          {
+            resolve: "gatsby-remark-embed-video",
+            options: {
+              width: 800,
+              ratio: 1.77, // Optional: Defaults to 16/9 = 1.77
+              height: 400, // Optional: Overrides optional.ratio
+              related: false, //Optional: Will remove related videos from the end of an embedded YouTube video.
+              noIframeBorder: true //Optional: Disable insertion of <style> border: 0
+            }
+          },
+
+          "gatsby-remark-responsive-iframe",
+
+
+          {
             resolve: 'gatsby-remark-copy-linked-files',
             options: {
               destinationDir: 'static',
@@ -54,8 +60,7 @@ module.exports = {
       },
     },
 
-    'gatsby-plugin-react-helmet',
-    'gatsby-plugin-sass',
+
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: 'gatsby-source-filesystem',
@@ -79,6 +84,11 @@ module.exports = {
       },
     },
     
+    
+    'gatsby-plugin-react-helmet',
+    'gatsby-plugin-sass',
+
+
     {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {

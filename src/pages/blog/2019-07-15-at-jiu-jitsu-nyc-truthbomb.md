@@ -6,7 +6,7 @@ description: >-
   Life, Jiu-Jitsu and the Struggle. Professor Alvaro explains finding the
   motivation to train and improve. 
 featuredpost: false
-featuredimage: /img/0.jpg
+featuredimage: /img/0.png
 ---
 
 
