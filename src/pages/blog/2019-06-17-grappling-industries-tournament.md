@@ -17,6 +17,8 @@ tags:
 
 - - -
 
-![](/img/congrats-to-_bjjbsc_rw-for-taking-🥇gold🥇-today🥋-_grapplingindustries-🥋.-a-true-beast-on-the-mats-and-one-of-the-nicest-guys-off-the-mats.-._.jpg "Roberto")
+****
+
+![](/img/congrats-roberto.jpg)
 
 **Congrats to Roberto for taking 🥇Gold🥇 today🥋 at Grappling Industries. A true beast on the mats and one of the nicest guys off the mats.**
