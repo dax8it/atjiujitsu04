@@ -80,8 +80,16 @@ export const IndexPageTemplate = ({
                     <h3 className="subtitle has-text-weight-normal is-size-5-mobile is-size-5-tablet is-size-4-widescreen">{mainpitch.description}</h3>
                   </div>
                   <div class="video-responsive">
-                  <iframe src="https://player.vimeo.com/video/317633674" width="100%" frameborder="0" title="ATJIUJITSU INTRO VIDEO" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                    <iframe
+                      src="https://player.cloudinary.com/embed/?cloud_name=dax8it&public_id=https%3A%2F%2Fres.cloudinary.com%2Fdax8it%2Fvideo%2Fupload%2Fv1575694094%2Fatjiujitsunyc%2FATJIUJITSUNYC_INTRO.mp4&fluid=true&controls=true&colors%5Baccent%5D=%2344c0ef&logo_image_url=https%3A%2F%2Fres.cloudinary.com%2Fdax8it%2Fimage%2Fupload%2Fv1549678229%2Fatjiujitsunyc%2Flogo.png&info%5Btitle%5D=WELCOME%20to%20ATJIUJITSUNYC%20&source_types%5B0%5D=mp4"
+                      width="640"
+                      height="480"
+                      allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
+                      allowfullscreen
+                      frameborder="0"
+                    ></iframe>
                   </div>
+
                   <br />
                 </div>
 

@@ -1,5 +1,7 @@
 var proxy = require('http-proxy-middleware')
 
+require('dotenv').config();
+
 module.exports = {
   siteMetadata: {
     title: '@JIUJITSUNYC • JIU JITSU and FITNESS • JACKSON HEIGHTS NYC',
