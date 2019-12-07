@@ -114,8 +114,10 @@ _**Morning Class**_
 
 ### SATURDAY
 
-* **Toddler Jiu-Jitsu (Ages 3 to 4)**
-  * **(CLASS FULL, NO MORE SPOTS AVAILABLE )** **:** 9:15 to 10:00am 
+* **Toddler Jiu-Jitsu (Ages 3 to 4):** 9:15 to 10:00am 
+
+\*CLASS FULL, NO MORE SPOTS AVAILABLE (Call/ Email Us to reserve a spot for any future opening) 
+
 * **Kids Jiu-Jitsu (Ages 5 to 9):** 10:15 to 11:00pm
 * **Kids Jiu-Jitsu (Ages 10 to 13):** 11:15 to 12:00pm 	
 
