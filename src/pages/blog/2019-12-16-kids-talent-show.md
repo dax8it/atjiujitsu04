@@ -33,7 +33,7 @@ Liliom dancing hip-hop.
 
 ![](/img/dsc00803.jpg)
 
-Ulap playing the violin.
+Ulap playing the ukulele.
 
 ![](/img/dsc00786.jpg)
 
