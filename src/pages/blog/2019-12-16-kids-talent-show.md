@@ -3,12 +3,13 @@ templateKey: blog-post
 title: KIDS TALENT SHOW
 date: 2019-12-15T18:30:00.000Z
 description: >-
-  Thank you to all our students who showed us their talents and skills during
-  our Talent Show! Everyone's talent is unique and special and we enjoyed
-  watching everyone's performance of dancing and singing and jokes and magic! 
+  AT Jiu-Jitsu NYC's first ever talent show! From magic tricks, to dancing and
+  singing to playing musical instruments and hula hoop tricks! 
 featuredpost: true
 featuredimage: /img/dsc00701.jpg
 ---
+## Thank you to all our students who showed us their talents and skills during our Talent Show! Everyone's talent is unique and special and we enjoyed watching everyone's performance of dancing and singing and jokes and magic! 
+
 ![](/img/dsc00939.jpg)
 
 ![](/img/dsc00739.jpg)
@@ -49,4 +50,4 @@ Justin demonstrating his skills on the piano.
 
 ![](/img/dsc00701.jpg)
 
-Elek showing off his magic tricks! 
+Elek showing off his magic tricks!
