@@ -19,6 +19,18 @@ tags:
 
 # Stripes
 
+![](/img/dsc00244.jpg)
+
+## Dion 
+
+![](/img/dsc00240.jpg)
+
+## Sofia O.
+
+![](/img/dsc00235.jpg)
+
+## Kaitlyn
+
 ![](/img/img_8398.jpg)
 
 ## **Francesca**
@@ -29,40 +41,20 @@ tags:
 
 ![](/img/img_8400.jpg)
 
-## Sophia
-
-![](/img/img_8402.jpg)
-
-## Chase
-
-![](/img/dsc6540.jpg)
-
-## **Kaitlyn**
-
-![](/img/dsc06557.jpg)
-
-## **Mohamet**
-
-![](/img/img_7511.jpg)
-
-## **Emelly**
-
-![](/img/img_8367.jpg)
-
-## **Melanie**
+## Sophia P.
 
 - - -
 
 # **Promotions**
 
-![](/img/dsc07615.jpg)
+![](/img/dsc00254.jpg)
 
-## **Lila promoted to Grey belt!**
+## Wyatt promoted to Grey belt!
 
-![](/img/dsc06546.jpg)
+![](/img/dsc09873.jpg)
 
-## **Sophia promoted to Grey and White belt!**
+## Isaac promoted to Grey and White belt!
 
-![](/img/img_7014.jpg)
+![](/img/dsc09873.jpg)
 
-## **Arianna promoted to Yellow belt!**
+## Ezra promoted to Grey and White belt!
