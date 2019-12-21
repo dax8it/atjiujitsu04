@@ -6,11 +6,13 @@ description: >-
   AT Jiu-Jitsu NYC's first ever talent show! From magic tricks, to dancing and
   singing to playing musical instruments and hula hoop tricks! 
 featuredpost: true
-featuredimage: /img/dsc00701.jpg
+featuredimage: /img/dsc00939.jpg
 ---
-## Thank you to all our students who showed us their talents and skills during our Talent Show! Everyone's talent is unique and special and we enjoyed watching everyone's performance of dancing and singing and jokes and magic! 
+## Thank you to all our students who showed us their talents and skills during our Talent Show! Everyone's talent is unique and special and we enjoyed watching everyone's performance of dancing and singing and jokes and magic!
 
-![](/img/dsc00939.jpg)
+![](/img/dsc00701.jpg)
+
+Elek showing off his magic tricks!
 
 ![](/img/dsc00739.jpg)
 
@@ -48,6 +50,4 @@ Angelina and Vida singing and dancing!
 
 Justin demonstrating his skills on the piano.
 
-![](/img/dsc00701.jpg)
-
-Elek showing off his magic tricks!
+![](/img/dsc00939.jpg)
