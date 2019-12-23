@@ -81,14 +81,7 @@ export const IndexPageTemplate = ({
                   </div>
 
                   <div class="video-responsive">
-                    <iframe
-                      src="https://player.cloudinary.com/embed/?cloud_name=dax8it&public_id=https%3A%2F%2Fres.cloudinary.com%2Fdax8it%2Fvideo%2Fupload%2Fv1575694094%2Fatjiujitsunyc%2FATJIUJITSUNYC_INTRO.mp4&fluid=true&controls=true&colors%5Baccent%5D=%2363b9ef&show_jump_controls=false&floating_when_not_visible=false&hide_context_menu=false&logo_image_url=https%3A%2F%2Fres.cloudinary.com%2Fdax8it%2Fimage%2Fupload%2Fv1549678229%2Fatjiujitsunyc%2Flogo.png&poster_options%5Btransformation%5D%5Bstart_offset%5D=6&autoplay_on_scroll=false&info%5Btitle%5D=WELCOME%20TO%20ATJIUJITSUNYC"
-                      width="640"
-                      height="480"
-                      allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
-                      allowfullscreen
-                      frameborder="0"
-                    ></iframe>
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/nAJdaRH6MLc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
                   <br />
                 </div>
