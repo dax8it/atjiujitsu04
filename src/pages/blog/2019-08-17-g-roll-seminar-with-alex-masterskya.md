@@ -11,8 +11,6 @@ tags:
   - jiujitsu
   - nyc
 ---
-
-
 ### Thank you to everyone who joined us during Alex Masterskya, G-Roll Seminar. We hope you all learned something new and different from someone else's perspective.
 
 **AUGUST 31, 2019**
